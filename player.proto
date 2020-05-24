@@ -1,0 +1,9 @@
+import "Louvre/painting.proto";
+syntax = "proto3";
+
+message Player {
+    string username = 1;
+    float balance = 2 [default = 0];
+    repeated Painting gallery = 3;
+
+}
