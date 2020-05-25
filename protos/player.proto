@@ -10,6 +10,7 @@ message Player {
     oneof option {
     MakeOfferAction make_offer = 101;
     AcceptOfferAction accept_offer = 102;
+    MakePaintingAction make_painting = 103;
     }
 }
 
@@ -23,4 +24,8 @@ message MakeOfferAction {
 
 message AcceptOfferAction {
     string label = 1;
+}
+
+message MakePaintingAction {
+    repeated float gene = 1;
 }
