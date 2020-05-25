@@ -1,9 +1,26 @@
-import "Louvre/painting.proto";
 syntax = "proto3";
+import "Louvre/painting.proto";
 
 message Player {
-    string username = 1;
-    float balance = 2 [default = 0];
-    repeated Painting gallery = 3;
+    string publickey = 1;
+    string username = 2;
+    float balance = 3 [default = 0];
+    repeated Painting gallery = 4;
 
+    oneof option {
+    MakeOfferAction make_offer = 101;
+    AcceptOfferAction accept_offer = 102;
+    }
+}
+
+message PlayerContainer {
+    repeated Player entries = 1;
+}
+
+message MakeOfferAction {
+    string offer = 1;
+}
+
+message AcceptOfferAction {
+    string label = 1;
 }
