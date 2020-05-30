@@ -1,0 +1,10 @@
+syntax = "proto3";
+import "louvre/player.proto";
+import "louvre/painting.proto";
+
+message Offer {
+  required int32 offer_id = 1;
+  Player offerer = 2;
+  float offered_price = 3;
+  Painting offered_on = 4;
+}

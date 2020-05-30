@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message Actions {
+    string action = 100;
+
+    oneof options {
+
+    }
+}
+
+message MakeOfferAction {
+
+}
+
+message AcceptOfferAction {
+
+}
+
+message MakePaintingAction {
+  
+}
