@@ -1,0 +1,107 @@
+version: "2.1"
+
+services:
+  settings-tp:
+    image: hyperledger/sawtooth-settings-tp
+    container_name: blockchain98-settings-tp-
+    depends_on:
+      - validator
+    entrypoint: settings-tp -vv -C tcp://validator:4004
+
+  intkey-tp-python:
+    image: hyperledger/sawtooth-intkey-tp-python
+    container_name: blockchain98-intkey-tp-python-
+    depends_on:
+      - validator
+    entrypoint: intkey-tp-python -vv -C tcp://validator:4004
+
+  validator:
+    image: hyperledger/sawtooth-validator
+    container_name: blockchain98-validator
+    expose:
+      - 4004
+    ports:
+      - "4004:4004"
+    entrypoint: |
+      bash -c "
+      if [ ! -f /etc/sawtooth/keys/validator.priv ]; then
+        sawadm keygen && 
+        sawtooth keygen my_key && 
+        sawset genesis -k /root/.sawtooth/keys/my_key.priv && 
+        sawset proposal create \
+          -k /root/.sawtooth/keys/my_key.priv \
+          sawtooth.consensus.algorithm.name=Devmode \
+          sawtooth.consensus.algorithm.version=0.1 \
+          -o config.batch && 
+        sawadm genesis config-genesis.batch config.batch 
+      fi;  
+      sawtooth-validator -vv \
+        --endpoint tcp://validator:8800 \
+        --bind component:tcp://eth0:4004 \
+        --bind network:tcp://eth0:8800 \
+        --bind consensus:tcp://eth0:5050 \
+      "
+
+  devmode-engine:
+    image: hyperledger/sawtooth-devmode-engine-rust
+    container_name: blockchain98-devmode-engine-rust
+    depends_on:
+      - validator
+    entrypoint: devmode-engine-rust -C tcp://validator:5050
+
+  rest-api:
+    image: hyperledger/sawtooth-rest-api
+    container_name: blockchain98-rest-api
+    ports:
+      - "8008:8008"
+    depends_on:
+      - validator
+    entrypoint: sawtooth-rest-api -C tcp://validator:4004 --bind rest-api:8008
+
+  shell:
+    image: hyperledger/sawtooth-shell
+    container_name: blockchain98-shell-default
+    depends_on:
+      - rest-api
+    volumes:
+      - ./shell/keys/priv:/root/.sawtooth/keys/root.priv
+      - ./shell/keys/pub:/root/.sawtooth/keys/root.pub
+    entrypoint: |
+      bash -c "
+      if [ ! -f /root/.sawtooth/keys/root.priv ]; then
+        sawtooth keygen 
+      fi;  
+      tail -f /dev/null 
+      "
+
+
+  rethink:
+    image: rethinkdb
+    container_name: blockchain98-rethink
+    expose:
+      - 8080
+      - 28015
+    ports:
+      - "8023:8080"
+      - "28015:28015"
+    environment:
+      - "http_proxy=${http_proxy}"
+      - "https_proxy=${https_proxy}"
+      - "no_proxy=rest-api,server,eth0,validator,${no_proxy}"
+
+
+      
+  mongo:
+    image: mongo:4.2.2
+    restart: always
+    expose:
+      - 27017  
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo:/var/lib/mongo
+
+
+      
+volumes:
+  mongo:    
