@@ -1,0 +1,24 @@
+{
+  message: 'Creating Account for 03d756baa26e20a234cd6f6bf5c4aa6d05a663d52173e0f42259700de26a288a06',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-05-16T17:40:37.949Z'
+}
+{
+  message: 'Creating Account for 03d756baa26e20a234cd6f6bf5c4aa6d05a663d52173e0f42259700de26a288a06',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-05-16T17:40:38.332Z'
+}
+{
+  message: 'Creating Account for 02b5971ca8b4464f50d018b715e087c7964a5fd85b80218a7d9e1c3ccdd9eaa335',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-05-16T17:40:54.226Z'
+}
+{
+  message: 'Creating Account for 02b5971ca8b4464f50d018b715e087c7964a5fd85b80218a7d9e1c3ccdd9eaa335',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-05-16T17:40:54.477Z'
+}
