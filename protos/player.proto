@@ -2,7 +2,7 @@ syntax = "proto3";
 import "louvre/painting.proto";
 
 message Player {
-    required string publickey = 1;
+    required string pubKey = 1;
     required string username = 2;
     required float balance = 3 [default = 0];
     // repeated Painting gallery = 4;

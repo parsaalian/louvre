@@ -4,7 +4,9 @@ message Actions {
     string action = 100;
 
     oneof options {
-
+        MakeOfferAction make_offer = 1;
+        AcceptOfferAction accept_offer= 2;
+        MakePaintingAction make_painting = 3;
     }
 }
 
@@ -12,7 +14,6 @@ message MakeOfferAction {
 	float price = 1;
 	int32 paintingId = 2;
 	string owner_pubKey = 3;
-
 }
 
 message AcceptOfferAction {
@@ -20,6 +21,6 @@ message AcceptOfferAction {
 }
 
 message MakePaintingAction {
-    repeated float gene = 1;
-    string owner_pubKey = 2;
+	repeated float gene = 1;
+	string owner_pubKey = 2;
 }
