@@ -1,0 +1,70 @@
+{
+  "nested": {
+    "Account": {
+      "fields": {
+        "publickey": {
+          "type": "string",
+          "id": 1
+        },
+        "label": {
+          "rule": "repeated",
+          "type": "string",
+          "id": 2
+        },
+        "balance": {
+          "type": "string",
+          "id": 3
+        }
+      }
+    },
+    "AcountContainer": {
+      "fields": {
+        "entries": {
+          "rule": "repeated",
+          "type": "Account",
+          "id": 1
+        }
+      }
+    },
+    "PGPayload": {
+      "oneofs": {
+        "options": {
+          "oneof": [
+            "createaccount",
+            "chargeaccount"
+          ]
+        }
+      },
+      "fields": {
+        "action": {
+          "type": "string",
+          "id": 100
+        },
+        "createaccount": {
+          "type": "CreateAccountAction",
+          "id": 200
+        },
+        "chargeaccount": {
+          "type": "ChargeAccountAction",
+          "id": 201
+        }
+      }
+    },
+    "CreateAccountAction": {
+      "fields": {
+        "label": {
+          "type": "string",
+          "id": 1
+        }
+      }
+    },
+    "ChargeAccountAction": {
+      "fields": {
+        "amount": {
+          "type": "string",
+          "id": 1
+        }
+      }
+    }
+  }
+}

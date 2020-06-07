@@ -1,0 +1,25 @@
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-05-16T17:34:02.648Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-05-16T17:40:04.544Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-05-16T17:40:29.428Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-06T06:22:48.894Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-06T06:23:08.463Z'
+}
