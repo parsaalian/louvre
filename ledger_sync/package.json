@@ -1,0 +1,22 @@
+{
+  "name": "blockchain98_ledger_sync",
+  "version": "0.0.1",
+  "description": "A simple component to sync blockchain state to a database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "elliptic": "^6.5.2",
+    "js-schema": "^1.0.1",
+    "lodash": "^4.17.15",
+    "protobufjs": "^6.8.8",
+    "rethinkdb": "^2.4.2",
+    "sawtooth-sdk": "^1.0.5",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}

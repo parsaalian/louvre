@@ -23,3 +23,1354 @@
   level: 'error',
   timestamp: '2020-06-06T06:23:08.463Z'
 }
+{
+  message: "Starting services has some errors: Error: ENOENT: no such file or directory, open '/Users/parsa/Desktop/everything/university/BC/louvre/protos/payload.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:26:06.298Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:26:35.190Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:30:26.812Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:30:32.765Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:30:32.805Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:30:45.736Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:31:53.412Z'
+}
+{
+  message: "Batch 99b65f8ffcac33e3355b42e31c578b390b34f7e3edaff97b4439c5c26a7189837fad534889d36ca835f17f80b09a743737b4423e5730bd5f05cf642ea241647a is INVALID, with message: getAccount in blockchain is not responding!: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/account.proto is not loading!: Error: ENOENT: no such file or directory, open '../protos/account.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:32:18.711Z'
+}
+{
+  message: "Batch 79ed84dc7a08eabf2a241e37314f13dadf0f865a756243ee286d991a9969f5a852275d96c144cdae71192a62f9c5936cfb4cae03e6698b76623894713cbe009f is INVALID, with message: getAccount in blockchain is not responding!: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/account.proto is not loading!: Error: ENOENT: no such file or directory, open '../protos/account.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:32:22.416Z'
+}
+{
+  message: "Batch 6dfdf33e918f1ef64749f1da6c2d7c1f2746edd9ed2e72dc827cc3676b8d8c2d48754ab0ab81f7c45103454b5d11abbf0a4a39281bf467167d1ee421f3ed32a1 is INVALID, with message: getAccount in blockchain is not responding!: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/account.proto is not loading!: Error: ENOENT: no such file or directory, open '../protos/account.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:32:35.474Z'
+}
+{
+  message: "Batch c84ca2052c525cd55602f5e2b140e1ee04b9b0d462d7b09d235d3c4a02b17c6e789910b6d6617ab27ce6a6daa133fe6743f0cc922a42adde61bc7aaba17c7d54 is INVALID, with message: getAccount in blockchain is not responding!: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/account.proto is not loading!: Error: ENOENT: no such file or directory, open '../protos/account.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:32:43.272Z'
+}
+{
+  message: "Batch 5aef06b79426c999aeacf5c394f7ac66fb4b2613f1b3c41d4c52d2ac3c6fe90355ad893d1088643cf49988b3f60e65bac503cd79ec17d4720a9f7d633270293d is INVALID, with message: getAccount in blockchain is not responding!: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/account.proto is not loading!: Error: ENOENT: no such file or directory, open '../protos/account.proto'",
+  level: 'error',
+  timestamp: '2020-06-13T17:35:37.940Z'
+}
+{
+  message: 'Batch 8ba3d5b264df51ac658266282db5b411fcb30f00f25d0ed02c6ee55205f6561364ae06aa1d37c82d70a2dfa59631ac481f3f91db50d6810293d35119d5502934 is INVALID, with message: bC98State.setAccount is not a function',
+  level: 'error',
+  timestamp: '2020-06-13T17:37:07.852Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:46:48.566Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:46:52.491Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T17:47:16.579Z'
+}
+{
+  message: 'TypeError: rethink.queryOfPaintings is not a function\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:284:7\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express-session/index.js:495:7\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/connect-mongo/src/index.js:10:25\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)',
+  level: 'error',
+  timestamp: '2020-06-13T18:53:08.377Z'
+}
+{
+  message: 'TypeError: rethink.queryOfPaintings is not a function\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:284:7\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express-session/index.js:495:7\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/connect-mongo/src/index.js:10:25\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)',
+  level: 'error',
+  timestamp: '2020-06-13T18:54:08.607Z'
+}
+{
+  message: 'TypeError: rethink.queryOfPaintings is not a function\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:284:7\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express-session/index.js:495:7\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/connect-mongo/src/index.js:10:25\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)',
+  level: 'error',
+  timestamp: '2020-06-13T18:54:19.381Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T18:54:56.570Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T18:57:42.814Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T18:58:50.117Z'
+}
+{
+  message: 'Batch 348457bdbbeefc029f7f519a0bdbc97985d6470a0f201108241a4f463150e054740ff1f8d19fdc9e82aef61ac8ec2829c2c7a9fdefd486cc99240c0e9592f3fc is INVALID, with message: Action must be create or take not MakePaintingAction',
+  level: 'error',
+  timestamp: '2020-06-13T19:06:18.352Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:06:18.429Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:17:31.588Z'
+}
+{
+  message: 'Batch 21ddbf02ddf94e4033f483cc3f4a96bfcc74cfa114524dfed26387b3405a08c07ce68e9516dc4b15b88cddcd77449864e35f9513ccdfdac9e64a8c6ab251a8b4 is INVALID, with message: Action must be create or take not MakePaintingAction',
+  level: 'error',
+  timestamp: '2020-06-13T19:18:06.814Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:18:06.887Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:18:45.220Z'
+}
+{
+  message: "Batch c1d0790fd2f1d3804591481d4a428d564aa604de4e958ca598320b0e74bd6c7e414c5d2a8a1d81f508ab4e07bea08519afa409abb0b57b3ceb3006b318bd25c3 is INVALID, with message: Cannot read property 'catch' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:18:50.138Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:18:50.202Z'
+}
+{
+  message: "Batch 54a2dd911deab43579b13e99cf876cf93955647ede72bdce482daaf4ca81692e3007f219eef913624dcb46d71334c9dd5ff1352a1ce5a4a7a9b9186a463a7c5a is INVALID, with message: Cannot read property 'catch' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:26:17.105Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:26:17.176Z'
+}
+{
+  message: "Batch 511532c1c21802d2eb8c6d58031f442279450610aff3b8ec52ea8f715c787a4f444a3c48ddd81e7afeba6d36fd9d22a2687321ea477ab14597636c6310cc8d57 is INVALID, with message: Cannot read property 'catch' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:26:36.613Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:26:36.673Z'
+}
+{
+  message: "Batch 508fd50f0494effad1f9fc2d55b21d915642f6efbb62092a6c7de75f47d918ae402d996d9c4119529078d8a3e45edfa6185803e765151b8dd7e8df1112b65eb6 is INVALID, with message: Cannot read property 'catch' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:28:42.347Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:28:42.429Z'
+}
+{
+  message: "Batch ad1dce94c97c39b3a05ff3ffa42d53d47514d31ecd0fae44a01dd1bcefc3fb340cab5210c54d0c5c436b1fb05f7b4e8c4e339b8f2959eeffe0a30517d2b63946 is INVALID, with message: Cannot read property 'catch' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:30:11.633Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:30:11.699Z'
+}
+{
+  message: 'Batch 6f194e75e62d032382ffe8672704785ad104c4f0999786be64518fae8563f36d1ffbcfa85d15f5f5cdf58ce2522565bcdd38217cce94998438ab4639787d2195 is UNKNOWN, with message: ',
+  level: 'error',
+  timestamp: '2020-06-13T19:31:33.992Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:31:34.063Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:33:45.984Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:37:20.521Z'
+}
+{
+  message: "Batch 1fef5a7ade61dec2a606aa540bba1536f609f841ed53ac7a0db3745950d949d8245b174f45f3f2d8e0441b315ff3b8e0f9e7cb96df9eaf9f6e98a453caf38c90 is INVALID, with message: Cannot read property 'gene' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:37:26.134Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:37:26.197Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T19:38:50.269Z'
+}
+{
+  message: 'The save action on User Collection with document test@test.com has some errors: false: password: Path `password` (`test`) is shorter than the minimum allowed length (6).',
+  level: 'error',
+  timestamp: '2020-06-13T19:39:04.816Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-13T19:39:07.300Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:42:11.883Z'
+}
+{
+  message: "Batch b79f80f1155d48b62f055bd91e55aa6a84ebdf9b935d412d8e9360f917ade65408fcf09091c69e1db294dc7b0d92e1b4f4436e82362832e188f99f50ff9f29b7 is INVALID, with message: Cannot read property 'gene' of null",
+  level: 'error',
+  timestamp: '2020-06-13T19:42:25.177Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:42:25.248Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:43:09.544Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:43:34.296Z'
+}
+{
+  message: 'Batch e834288273a88d30d2bd1bdf3a7930a8f8330a5f5a141b8112afa3c3a6bef56b7fc8bc063f411740c670ac7f37d9e14716bce6e407b66b43075b79acb0457663 is INVALID, with message: createPaintingAddress is not defined',
+  level: 'error',
+  timestamp: '2020-06-13T19:43:54.692Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:43:54.754Z'
+}
+{
+  message: 'Batch 4eba1cd14e0cbdc4170c3f42d1849b9c8ba8182ed57275e9c0e8e9faae653acb17c96b5313864e2b551b0ffcfb010ef1a46fde87f22c268e43a455e1426ee362 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:44:41.781Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:44:41.841Z'
+}
+{
+  message: 'Batch 36b560de813795824a90fc41f4f404f578759018cea8c4f3959cf74434af98e0742bc4123e18b373f133fff154cf44365fd53f1547ce62d6a7e1b99ba6994883 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:45:37.968Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:45:38.033Z'
+}
+{
+  message: 'Batch 76b8d8ed67c5521873c21106b21302b67414b5aed72360d64086b18a9bac6b5245a6b11694c1bf9985cbec16f04b02f0bc58a8c381bc32bea8d7690745703135 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:46:55.365Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:46:55.431Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:49:06.377Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:49:23.813Z'
+}
+{
+  message: 'Batch de0dfce2df2d53728cce4c8f762ba37ede62e2a63b0ef31f3ab62edd9f19ea4f3061e6bafeb1a55654b093849f1b34c6a7ffb304f2b043bfdfaba0bba98fd321 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:49:30.473Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:49:30.547Z'
+}
+{
+  message: 'queryOfUsers is not responding!: First argument to `run` must be an open connection.',
+  level: 'error',
+  timestamp: '2020-06-13T19:51:46.872Z'
+}
+{
+  message: "query on user 03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a's information is not responding!: Cannot read property '0' of undefined",
+  level: 'error',
+  timestamp: '2020-06-13T19:51:46.874Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:51:46.879Z'
+}
+{
+  message: 'Unable to connect to RethinkDB with some errors: ReqlTimeoutError: Could not connect to localhost:28015, operation timed out.',
+  level: 'error',
+  timestamp: '2020-06-13T19:51:55.965Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:53:04.795Z'
+}
+{
+  message: 'Batch b64c45b11b7e0fb7c7d92477094201259beb0cde1f7a0dec33195ae610edbeea2daf06e9f0c15cc35b189e52e80ccc347c81a1f8e4ad766f4318e5fe040c026b is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:53:14.776Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:53:14.849Z'
+}
+{
+  message: 'Batch 01b9e280b170565e61451559e30136ebbfa77ce0f6cd15f9c6cda1ea0b1783a835766109d1013c0924151c24d2f1bc3cb4a4c5f06c045f6c72f8afb6b4168916 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:53:54.299Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:53:54.370Z'
+}
+{
+  message: 'Batch e05ea859d456a834a486f640f0799e3bb9f0699436935ae1317f2d0c61b89c7e0e99998196ab013460eddcb4aa33862564d154a9f64dd96da87a6aa874692225 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:54:46.084Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:54:46.151Z'
+}
+{
+  message: 'Batch 6a89dd688cdf27039cb8c4fb5a1c6f2faba996c66c01a21cbf0d668beb037c7d7483b471c1193fd7d590cff535581fc7dbdc813b6be9f4ad5935f9e55a6fe5e9 is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:55:31.265Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:55:31.334Z'
+}
+{
+  message: 'Batch 681dc8d0b83039b4e6e77d8b972522161c90808b9b01a85e11204cf6e9380f3113e58a4e26e66f00db7fe2d340e6c285c63c31a11707578182da3bf6e07774ab is INVALID, with message: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Array',
+  level: 'error',
+  timestamp: '2020-06-13T19:56:04.043Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T19:56:04.108Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T20:02:58.972Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T20:03:02.671Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-13T20:03:09.079Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-14T07:01:04.989Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-06-14T07:01:20.285Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-14T07:01:31.031Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 0 to table may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Table.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Table.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at new Table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1897:40)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4316:10)\n' +
+    '    at Function.table (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:101:4)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:19:4\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)',
+  level: 'error',
+  timestamp: '2020-06-14T07:03:33.335Z'
+}

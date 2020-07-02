@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+message PGPayload {
+    string action = 100;
+
+    oneof options {
+    CreateAccountAction createaccount = 200;
+    ChargeAccountAction chargeaccount = 201;
+    CreatePaintingAction createPainting = 202;
+    }
+}
+
+
+
+message CreateAccountAction {
+    string label = 1;
+}
+
+message ChargeAccountAction {
+    string amount = 1;
+}
+
+message CreatePaintingAction {
+	repeated float gene = 1;
+}

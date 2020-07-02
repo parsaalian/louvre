@@ -93,6 +93,24 @@ class Blockchain98Handler extends TransactionHandler {
 						});
 				};
 
+				const createPainting = (paintingKey) => {
+					return bC98State
+						.getMessage(paintingKey, 'Painting')
+						.catch((err) => {
+							const message = err.message ? err.message : err;
+							logger.error(`getAccount in blockchain is not responding!: ${message}`);
+							throw new Error(`getAccount in blockchain is not responding!: ${message}`);
+						})
+						.then((paintingValue) => {
+							if (paintingValue && paintingValue.paintingKey !== undefined) {
+								logger.error('Painting Already exists!!');
+								throw new Error('Painting Already exists!!');
+							}
+							logger.info('Creating Painting ' + paintingKey + ' for ' + userPublicKey);
+							return bC98State.createPainting(paintingKey, userPublicKey);
+						});
+				};
+
 				const makeOffer = (paintingKey, sellerKey, buyerKey, offer) => {
 					if (sellerKey !== userPublicKey) {
 						throw new Error('User is not valid.');
@@ -157,6 +175,17 @@ class Blockchain98Handler extends TransactionHandler {
 						actionPromise = chargeAccount(amount, userPublicKey);
 						break;
 
+					case 'CreatePaintingAction':
+						if (!update && !update.createPainting) {
+							logger.error('update does not have "createPainting" field!');
+							throw new Error('update does not have "createPainting" field!');
+						}
+
+						let key = update.createPainting.gene;
+
+						actionPromise = createPainting(key);
+						break;
+
 					default:
 						throw new Error(`Action must be create or take not ${action}`);
 				}
@@ -184,3 +213,13 @@ class Blockchain98Handler extends TransactionHandler {
 }
 
 module.exports = Blockchain98Handler;
+
+/*
+PGPayload {
+	action: 'CreatePaintingAction',
+	createPainting: CreatePaintingAction {
+	  gene: [ 0.10000000149011612, 0.20000000298023224, 0.30000001192092896 ]
+	}
+  }
+  info: Creating Painting 0.10000000149011612,0.20000000298023224,0.30000001192092896 for 03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a {"service":"user-service","timestamp":"2020-06-13T20:03:07.984Z"}
+  */

@@ -1,9 +1,8 @@
 syntax = "proto3";
-import "louvre/player.proto";
 
 message Painting {
-    required Player owner = 1;
-    required repeated float gene = 2;
+    string owner = 1;
+    repeated float gene = 2;
     float offered_price = 3;
     bool for_sale = 4;
     // Timestamp created_at = 5;

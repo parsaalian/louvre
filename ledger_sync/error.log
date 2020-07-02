@@ -1,0 +1,234 @@
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T17:25:42.340Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T18:24:20.413Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T18:24:33.875Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T18:52:28.266Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T18:56:45.342Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T18:57:25.983Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:02:57.342Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:16:57.392Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:36:59.356Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:47:08.530Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:48:48.743Z'
+}
+{
+  message: 'Connection to RethinkDb has some errors: ReqlTimeoutError: Could not connect to localhost:28015, operation timed out.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:49:08.736Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:51:29.045Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:52:52.080Z'
+}
+{
+  message: 'subscriber can not start since has some errors: logger.error is not a function',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-13T19:54:35.268Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_19) { return var_19.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_20) { return r.branch(var_20.count().gt(0), var_20, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.117Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.131Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_19) { return var_19.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_20) { return r.branch(var_20.count().gt(0), var_20, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.117Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.138Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_19) { return var_19.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_20) { return r.branch(var_20.count().gt(0), var_20, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.117Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.142Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_25) { return var_25.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_26) { return r.branch(var_26.count().gt(0), var_26, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.184Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.190Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_25) { return var_25.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_26) { return r.branch(var_26.count().gt(0), var_26, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.184Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.191Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_25) { return var_25.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_26) { return r.branch(var_26.count().gt(0), var_26, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.184Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.191Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_28) { return var_28.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_29) { return r.branch(var_29.count().gt(0), var_29, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.201Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.204Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_28) { return var_28.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_29) { return r.branch(var_29.count().gt(0), var_29, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.201Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.204Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_28) { return var_28.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_29) { return r.branch(var_29.count().gt(0), var_29, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:00:35.201Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:00:35.207Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_1) { return var_1.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_2) { return r.branch(var_2.count().gt(0), var_2, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.417Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.424Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_1) { return var_1.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_2) { return r.branch(var_2.count().gt(0), var_2, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.417Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.425Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_1) { return var_1.filter({"startBlockNum": 16}).coerceTo("array").do(function(var_2) { return r.branch(var_2.count().gt(0), var_2, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 16}).do(function() { return r.table("painting").insert({"owner": "0397c0a2c67bd045479e85bda73d3c15e5b46bc68f722f4193980092d508b5c220", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 16, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.417Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.425Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_7) { return var_7.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_8) { return r.branch(var_8.count().gt(0), var_8, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.432Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.434Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_7) { return var_7.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_8) { return r.branch(var_8.count().gt(0), var_8, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.432Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.449Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_7) { return var_7.filter({"startBlockNum": 18}).coerceTo("array").do(function(var_8) { return r.branch(var_8.count().gt(0), var_8, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 18}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 18, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.432Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.450Z'
+}
+{
+  message: 'Query on "painting" has some errors: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_10) { return var_10.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_11) { return r.branch(var_11.count().gt(0), var_11, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.453Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.456Z'
+}
+{
+  message: 'modifyTable on "painting" has some errors: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_10) { return var_10.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_11) { return r.branch(var_11.count().gt(0), var_11, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.453Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.457Z'
+}
+{
+  message: 'entryAdder(block) has some errors:  modifyTable on "painting" has some errors: Error: Query on "painting" has some errors: ReqlOpFailedError: Index `gene` was not found on table `blockchain98.painting` in:\n' +
+    'r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).filter({"endBlockNum": 9007199254740991}).coerceTo("array").do(function(var_10) { return var_10.filter({"startBlockNum": 19}).coerceTo("array").do(function(var_11) { return r.branch(var_11.count().gt(0), var_11, r.table("painting").getAll([0.10000000149011612, 0.20000000298023224, 0.30000001192092896], {"index": "gene"}).update({"endBlockNum": 19}).do(function() { return r.table("painting").insert({"owner": "03aa17ef54d47c9a2fd096d0fa781c550fbe8c791affe2a1a02b4dd879eefb553a", "gene": [0.10000000149011612, 0.20000000298023224, 0.30000001192092896], "startBlockNum": 19, "endBlockNum": 9007199254740991, "timestamp": r.ISO8601("2020-06-14T07:05:44.453Z")}, {"conflict": "replace"}); })); }); })\n' +
+    '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-06-14T07:05:44.457Z'
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+
+message Account {
+    string publickey = 1;
+
+    repeated string label = 2;
+
+    string balance = 3;
+
+}
+
+message AcountContainer {
+    repeated Account entries = 1;
+}

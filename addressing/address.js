@@ -17,7 +17,7 @@ const createPlayerAddress = (pubKey) => {
 };
 
 const createPaintingAddress = (paintKey) => {
-	return NAMESPACE + 'pnt' + hash(paintKey).substr(0, 60) + 'pnt';
+	return NAMESPACE + 'ab' + hash(Buffer.from(paintKey)).substr(0, 60) + 'ab';
 };
 
 module.exports = {

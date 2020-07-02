@@ -7,6 +7,7 @@ import AuthenticationCheck from './hoc/auth';
 import Login from './containers/admin/login';
 import Logout from './components/Admin/logout';
 import ChargeAccount from './components/transactions/chargeAccount';
+import MakePainting from './components/transactions/makePainting';
 import Register from './containers/admin/register';
 import ChangePassword from './components/Admin/changePassword';
 
@@ -21,6 +22,7 @@ const Routes = () => {
 				<Route path="/changePassword" exact component={AuthenticationCheck(ChangePassword, true)} />
 				<Route path="/dashboard" exact component={AuthenticationCheck(User, true)} />
 				<Route path="/chargeAccount" exact component={AuthenticationCheck(ChargeAccount, true)} />
+				<Route path="/makePainting" exact component={AuthenticationCheck(MakePainting, true)} />
 			</Switch>
 		</Layout>
 	);

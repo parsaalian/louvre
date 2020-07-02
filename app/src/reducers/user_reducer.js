@@ -30,7 +30,7 @@ export default function(state = {}, action) {
 				...state,
 				doc: action.payload
 			};
-		case 'USER_MAKE_OFFER':
+		case 'USER_MAKE_PAINTING':
 			return {
 				...state,
 				doc: action.payload

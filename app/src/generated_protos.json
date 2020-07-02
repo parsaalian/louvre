@@ -26,12 +26,104 @@
         }
       }
     },
+    "Actions": {
+      "oneofs": {
+        "options": {
+          "oneof": [
+            "makeOffer",
+            "acceptOffer",
+            "makePainting"
+          ]
+        }
+      },
+      "fields": {
+        "action": {
+          "type": "string",
+          "id": 100
+        },
+        "makeOffer": {
+          "type": "MakeOfferAction",
+          "id": 1
+        },
+        "acceptOffer": {
+          "type": "AcceptOfferAction",
+          "id": 2
+        },
+        "makePainting": {
+          "type": "MakePaintingAction",
+          "id": 3
+        }
+      }
+    },
+    "MakeOfferAction": {
+      "fields": {
+        "price": {
+          "type": "float",
+          "id": 1
+        },
+        "paintingId": {
+          "type": "int32",
+          "id": 2
+        },
+        "ownerPubKey": {
+          "type": "string",
+          "id": 3
+        }
+      }
+    },
+    "AcceptOfferAction": {
+      "fields": {
+        "offer": {
+          "type": "Offer",
+          "id": 1
+        }
+      }
+    },
+    "MakePaintingAction": {
+      "fields": {
+        "gene": {
+          "rule": "repeated",
+          "type": "float",
+          "id": 1
+        },
+        "ownerPubKey": {
+          "type": "string",
+          "id": 2
+        }
+      }
+    },
+    "Offer": {
+      "fields": {
+        "offerId": {
+          "rule": "required",
+          "type": "int32",
+          "id": 1
+        },
+        "offererPubKey": {
+          "type": "float",
+          "id": 2
+        },
+        "offeredPrice": {
+          "type": "float",
+          "id": 3
+        },
+        "offeredOn": {
+          "type": "Painting",
+          "id": 4
+        },
+        "accepted": {
+          "type": "bool",
+          "id": 5
+        }
+      }
+    },
     "PGPayload": {
       "oneofs": {
         "options": {
           "oneof": [
             "createaccount",
-            "chargeaccount"
+            "chargeaccount",
+            "createPainting"
           ]
         }
       },
@@ -47,6 +139,10 @@
         "chargeaccount": {
           "type": "ChargeAccountAction",
           "id": 201
+        },
+        "createPainting": {
+          "type": "CreatePaintingAction",
+          "id": 202
         }
       }
     },
@@ -62,6 +158,46 @@
       "fields": {
         "amount": {
           "type": "string",
+          "id": 1
+        }
+      }
+    },
+    "CreatePaintingAction": {
+      "fields": {
+        "gene": {
+          "rule": "repeated",
+          "type": "float",
+          "id": 1
+        }
+      }
+    },
+    "Player": {
+      "fields": {
+        "pubKey": {
+          "rule": "required",
+          "type": "string",
+          "id": 1
+        },
+        "username": {
+          "rule": "required",
+          "type": "string",
+          "id": 2
+        },
+        "balance": {
+          "rule": "required",
+          "type": "float",
+          "id": 3,
+          "options": {
+            "default": 0
+          }
+        }
+      }
+    },
+    "PlayerContainer": {
+      "fields": {
+        "entries": {
+          "rule": "repeated",
+          "type": "Player",
           "id": 1
         }
       }

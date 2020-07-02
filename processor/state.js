@@ -1,5 +1,10 @@
 const pb = require('protobufjs');
-const { createAccountAddress, createOfferAddress, createPlayerAddress } = require('../addressing/address');
+const {
+	createAccountAddress,
+	createOfferAddress,
+	createPlayerAddress,
+	createPaintingAddress
+} = require('../addressing/address');
 const { logger } = require('./logger');
 
 class BC98State {
@@ -279,6 +284,94 @@ class BC98State {
 				logger.error(`getOffer in blockchain is not responding: ${message}`);
 				throw new Error(`getOffer in blockchain is not responding: ${err}`);
 			});
+	}
+
+	// //////////////////////////////////////////////////////////////////////
+	// ########## Set Accounts #######################
+	// /////////////////////////////////////////////////////////////////////
+
+	setAccount(label, pubKey) {
+		try {
+			const payloadAccount = {
+				publickey: pubKey,
+				label: [ label ],
+				balance: '0'
+			};
+			const dataAccount = this.encodeFunction([ payloadAccount ], '../protos/account.proto', 'Account');
+			const addressAccount = createAccountAddress(pubKey);
+			this.addressCache.set(addressAccount, dataAccount[0]);
+
+			let entries = {
+				[addressAccount]: dataAccount[0]
+			};
+			return this.context.setState(entries);
+		} catch (err) {
+			const message = err.message ? err.message : err;
+			logger.error(`setState in setAccount has some problems: ${message}`);
+			throw new Error('setState in setAccount has some problems:' + ' ' + err);
+		}
+	}
+
+	// //////////////////////////////////////////////////////////////////////
+	// ########## Set Charge #######################
+	// /////////////////////////////////////////////////////////////////////
+
+	setCharge(amount, pubKey) {
+		return this.getMessage(pubKey, 'Account')
+			.then((accountValue) => {
+				if (!accountValue || accountValue.publickey !== pubKey) {
+					logger.error('No Account exists in setCharge!');
+					throw new Error('The Account is not valid!');
+				}
+
+				const balance = (Number(accountValue.balance) + Number(amount)).toFixed(3);
+
+				const payloadAccount = {
+					publickey: accountValue.publickey,
+					label: accountValue.label,
+					balance: balance
+				};
+
+				const dataAccount = this.encodeFunction([ payloadAccount ], '../protos/account.proto', 'Account');
+
+				const addressAccount = createAccountAddress(pubKey);
+
+				this.addressCache.set(addressAccount, dataAccount[0]);
+
+				let entries = {
+					[addressAccount]: dataAccount[0]
+				};
+				logger.info('The balance is changing to: ' + balance);
+				return this.context.setState(entries);
+			})
+			.catch((err) => {
+				let message = err.message ? err.message : err;
+				logger.error(`getAccount in blockchain is not responding!: ${message}`);
+				throw new Error('getAccount in blockchain is not responding!:' + ' ' + err);
+			});
+	}
+
+	createPainting(paintingKey, ownerKey) {
+		try {
+			const paintingPayload = {
+				owner: ownerKey,
+				gene: paintingKey,
+				offer_price: -1,
+				for_sale: false
+			};
+			const paintingData = this.encodeFunction([ paintingPayload ], '../protos/painting.proto', 'Painting');
+			const paintingAddress = createPaintingAddress(paintingKey);
+			this.addressCache.set(paintingAddress, paintingData[0]);
+
+			let entries = {
+				[paintingAddress]: paintingData[0]
+			};
+			return this.context.setState(entries);
+		} catch (err) {
+			const message = err.message ? err.message : err;
+			logger.error(`setState in createPainting has some problems: ${message}`);
+			throw new Error('setState in createPainting has some problems:' + ' ' + err);
+		}
 	}
 }
 

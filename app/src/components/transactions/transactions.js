@@ -32,6 +32,7 @@ const postBinary = (endpoint, data) => {
 };
 
 const submit = (txn, wait = false) => {
+	console.log(wait);
 	return postBinary(`/blockchain/transactions${wait ? '?wait' : ''}`, txn);
 };
 
@@ -109,10 +110,24 @@ const makeOffer = (privKeyStr, paintingKey, offer) => {
 	return txnBytes;
 };
 
+const makePainting = (paintingKey, privKeyStr) => {
+	const signer = getSigner(privKeyStr);
+	const payload = {
+		action: 'CreatePaintingAction',
+		timestampClient: Number(Math.floor(Date.now() / 1000).toFixed(3)).toString(),
+		createPainting: {
+			gene: paintingKey
+		}
+	};
+	const txnBytes = createTxn(payload, signer);
+	return txnBytes;
+};
+
 module.exports = {
 	submit,
 	hash,
 	createAccount,
 	chargeAccount,
-	makeOffer
+	makeOffer,
+	makePainting
 };
