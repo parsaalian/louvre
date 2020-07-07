@@ -3,7 +3,8 @@ const {
 	createAccountAddress,
 	createOfferAddress,
 	createPlayerAddress,
-	createPaintingAddress
+	createPaintingAddress,
+	createSellAddress
 } = require('../addressing/address');
 const { logger } = require('./logger');
 
@@ -144,6 +145,30 @@ class BC98State {
 	// //////////////////////////////////////////////////////////////////////
 	// ########## Offer Actions #######################
 	// /////////////////////////////////////////////////////////////////////
+
+	sellPainting(offer){
+		try{
+			const sellPayload = {
+				offer,
+				accepted: true
+			};
+			const sellData = this.encodeFunction(
+				[sellPayload],
+				'../protos/payload.proto',
+				'sell'
+			);
+			const sellAddress = createSellAddress(offer.id);
+			this.addressCache.set(sellAddress, sellData[0]);
+			return this.context.setState({
+				[sellAddress]:sellData[0]
+			});
+		}
+		catch (e) {
+			const message = e.message || e;
+			logger.error(`setState in sellPainting has some problems: ${message}`)
+			throw new Error(`setState in sellPainting has some problems: ${e}`);
+		}
+	}
 
 	makeOffer(paintingKey, sellerKey, buyerKey, offer) {
 		try {
