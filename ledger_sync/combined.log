@@ -3418,3 +3418,3225 @@
   message: 'Received message of unknown type:',
   timestamp: '2020-06-14T07:06:34.329Z'
 }
+{
+  message: 'Creating "blockchain98" database...',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T12:20:28.990Z'
+}
+{
+  message: 'Bootstrapping completed',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T12:20:29.539Z'
+}
+{
+  message: 'Successfully connected to database: blockchain98',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T12:20:29.550Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T12:20:42.337Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T12:20:52.341Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T12:21:02.341Z'
+}
+{
+  message: 'Creating "blockchain98" database...',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.044Z'
+}
+{
+  message: '"blockchain98" already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.051Z'
+}
+{
+  message: 'The users table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.056Z'
+}
+{
+  message: 'The painting table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.056Z'
+}
+{
+  message: 'The blocks table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.057Z'
+}
+{
+  message: 'Bootstrapping completed',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.058Z'
+}
+{
+  message: 'Successfully connected to database: blockchain98',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:15:16.068Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:15:27.922Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:15:37.919Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:15:47.917Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:15:57.915Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:07.908Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:17.901Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:27.905Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:37.906Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:47.901Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:16:57.906Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:07.899Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:17.901Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:27.898Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:37.896Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:47.889Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:17:57.890Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:07.891Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:17.886Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:27.879Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:37.880Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:47.874Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:18:57.870Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:07.863Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:17.856Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:27.848Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:37.846Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:47.841Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:19:57.839Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:07.837Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:17.837Z'
+}
+{
+  message: 'The following document inserts to table: "users" in block: "1"',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:20:18.921Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: '%O',
+  timestamp: '2020-07-04T14:20:18.922Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:27.843Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:37.834Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:47.829Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:57.832Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:07.827Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:17.831Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:27.828Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:37.829Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:47.823Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:57.832Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:07.831Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:17.830Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:27.827Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:37.830Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:47.823Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:57.825Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:07.822Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:17.821Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:27.823Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:37.814Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:47.807Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:57.807Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:07.808Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:17.802Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:27.791Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:37.794Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:47.787Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:57.791Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:07.794Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:17.798Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:27.800Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:37.790Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:47.786Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:57.790Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:07.784Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:17.783Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:27.783Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:37.776Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:47.773Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:57.779Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:07.775Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:17.778Z'
+}
+{
+  message: 'The following document inserts to table: "users" in block: "2"',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:27:18.952Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: '%O',
+  timestamp: '2020-07-04T14:27:18.953Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:27.775Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:37.765Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:47.761Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:57.765Z'
+}
+{
+  message: 'INVALID ADDRESS',
+  level: 'warn',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:28:03.208Z'
+}
+{
+  message: 'The following document inserts to table: "painting" in block: "3"',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:28:03.208Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: '%O',
+  timestamp: '2020-07-04T14:28:03.209Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:07.761Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:17.766Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:27.768Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:37.758Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:47.756Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:57.760Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:07.754Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:17.756Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:27.759Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:37.757Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:47.753Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:57.742Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:07.744Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:17.736Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:27.733Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:37.733Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:47.728Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:57.723Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:07.716Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:17.708Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:27.701Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:37.699Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:47.697Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:57.697Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:07.695Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:17.685Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:27.685Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:37.689Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:47.681Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:57.675Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:07.676Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:17.675Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:27.673Z'
+}
+{
+  message: 'Creating "blockchain98" database...',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.128Z'
+}
+{
+  message: '"blockchain98" already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.135Z'
+}
+{
+  message: 'The users table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.140Z'
+}
+{
+  message: 'The painting table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.140Z'
+}
+{
+  message: 'The blocks table already exists',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.140Z'
+}
+{
+  message: 'Bootstrapping completed',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.141Z'
+}
+{
+  message: 'Successfully connected to database: blockchain98',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T17:41:49.152Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:06.591Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:16.591Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:26.586Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:36.585Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:46.580Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:42:56.576Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:06.564Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:16.554Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:26.555Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:36.555Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:46.545Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:43:56.544Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:06.536Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:16.531Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:26.523Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:36.513Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:46.512Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:44:56.512Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:06.509Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:16.499Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:26.501Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:36.501Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:46.504Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:45:56.503Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:06.493Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:16.493Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:26.493Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:36.495Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:46.496Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:46:56.489Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:06.487Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:16.484Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:26.485Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:36.486Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:46.488Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:47:56.487Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:06.479Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:16.481Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:26.477Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:36.470Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:46.471Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:48:56.471Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:06.464Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:16.453Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:26.455Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:36.450Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:46.451Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:49:56.446Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:06.438Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:16.435Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:26.434Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:36.432Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:46.435Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:50:56.435Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:06.430Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:16.416Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:26.417Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:36.417Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:46.418Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:51:56.418Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:06.409Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:16.410Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:26.409Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:36.411Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:46.409Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:52:56.409Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:06.399Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:16.387Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:26.379Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:36.380Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:46.376Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:53:56.375Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:06.369Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:16.359Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:26.360Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:36.352Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:46.352Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:54:56.349Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:06.342Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:16.339Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:26.342Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:36.339Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:46.333Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:55:56.331Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:06.322Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:16.326Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:26.316Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:36.308Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:46.304Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:56:56.304Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:06.300Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:16.299Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:26.292Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:36.291Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:46.292Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:57:56.284Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:06.275Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:16.275Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:26.274Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:36.269Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:46.267Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:58:56.259Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:06.253Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:16.253Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:26.252Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:36.252Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:46.257Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T17:59:56.251Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:06.242Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:16.241Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:26.240Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:36.231Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:46.225Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:00:56.224Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:06.219Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:16.219Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:26.213Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:36.213Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:46.216Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:01:56.209Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:06.203Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:16.200Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:26.199Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:36.199Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:46.189Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:02:56.188Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:06.181Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:16.180Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:26.171Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:36.171Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:46.174Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:03:56.173Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:06.164Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:16.166Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:26.156Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:36.156Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:46.156Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:04:56.151Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:06.144Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:16.144Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:26.146Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:36.145Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:46.146Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:05:56.141Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:06.134Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:16.130Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:26.134Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:36.140Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:46.142Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:06:56.137Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:06.131Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:16.133Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:26.126Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:36.130Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:46.127Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:07:56.124Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:06.116Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:16.116Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:26.117Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:36.106Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:46.101Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:08:56.103Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:06.094Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:16.090Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:26.081Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:36.075Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:46.068Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:09:56.069Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:06.062Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:16.063Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:26.062Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:36.062Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:46.064Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:10:56.057Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:06.051Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:16.053Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:26.050Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:36.043Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:46.044Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:11:56.040Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:06.029Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:16.025Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:26.022Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:36.019Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:46.022Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:12:56.019Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:06.012Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:16.005Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:26.006Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:36.003Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:46.003Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:13:56.001Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:05.993Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:15.982Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:25.976Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:35.969Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:45.968Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:14:55.966Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:05.958Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:15.949Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:25.945Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:35.947Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:45.944Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:15:55.935Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:05.926Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:15.925Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:25.922Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:35.921Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:45.918Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:16:55.916Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:05.912Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:15.909Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:25.899Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:35.891Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:45.890Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:17:55.889Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:05.880Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:15.881Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:25.880Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:35.870Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:45.873Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:18:55.870Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:05.861Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:15.850Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:25.850Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:35.851Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:45.851Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:19:55.848Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:05.839Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:15.839Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:25.836Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:35.836Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:45.839Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:20:55.830Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:05.824Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:15.822Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:25.818Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:35.818Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:45.820Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:21:55.822Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:05.812Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:15.812Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:25.809Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:35.804Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:45.798Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:22:55.790Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:05.782Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:15.779Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:25.770Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:35.769Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:45.769Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:23:55.763Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:05.756Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:15.754Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:25.752Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:35.751Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:45.751Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:24:55.746Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:05.739Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:15.738Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:25.732Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:35.730Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:45.735Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:25:55.728Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:05.721Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:15.723Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:25.714Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:35.712Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:45.707Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:26:55.696Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:05.689Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:15.681Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:25.683Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:35.688Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:45.679Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:27:55.674Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:05.667Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:15.668Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:25.655Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:35.652Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:45.652Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:28:55.652Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:05.643Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:15.644Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:25.643Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:35.635Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:45.637Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:29:55.636Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:05.629Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:15.630Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:25.629Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:35.634Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:45.628Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:30:55.629Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:05.621Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:15.620Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:25.618Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:35.618Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:45.611Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:31:55.606Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:05.599Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:15.598Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:25.596Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:35.596Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:45.585Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:32:55.583Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:05.576Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:15.576Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:25.574Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:35.567Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:45.568Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:33:55.563Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:05.559Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:15.554Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:25.554Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:35.554Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:45.553Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:34:55.552Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:05.543Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:15.539Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:25.540Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:35.538Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:45.539Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:35:55.534Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:05.527Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:15.528Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:25.527Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:35.530Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:45.520Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:36:55.513Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:05.504Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:15.504Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:25.503Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:35.503Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:45.500Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:37:55.490Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:05.483Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:15.480Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:25.479Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:35.475Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:45.469Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:38:55.458Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:05.451Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:15.453Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:25.448Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:35.449Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:45.445Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:39:55.445Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:05.440Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:15.436Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:25.426Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:35.426Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:45.424Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:40:55.413Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:05.408Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:15.408Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:25.402Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:35.401Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:45.397Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:41:55.387Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:05.380Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:15.380Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:25.380Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:35.379Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:45.376Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:42:55.376Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:05.369Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:15.359Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:25.364Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:35.364Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:45.355Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:43:55.356Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:05.354Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:15.354Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:25.352Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:35.347Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:45.345Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:44:55.340Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:05.335Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:15.331Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:25.327Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:35.328Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:45.319Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:45:55.309Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:05.304Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:15.304Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:25.301Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:35.300Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:45.294Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:46:55.287Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:05.278Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:15.275Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:25.273Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:35.274Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:45.275Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:47:55.268Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:48:05.260Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:48:15.260Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:48:25.260Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:48:35.255Z'
+}
+{
+  service: 'user-service',
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T18:48:45.256Z'
+}

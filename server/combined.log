@@ -9354,3 +9354,1253 @@
   level: 'info',
   timestamp: '2020-06-14T07:03:55.020Z'
 }
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-04T12:20:59.892Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-04T12:20:59.944Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-04T12:21:00.018Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-04T14:15:29.499Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-04T14:15:29.550Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-04T14:15:29.639Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 14.508 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:15:58.907Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T14:15:59.307Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T14:15:59.308Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 13.686 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:15:59.314Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.227 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:05.448Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T14:16:05.661Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:05.662Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.436 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:05.665Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:11.933Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 28.279 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:11.936Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:13.471Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 5.882 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:13.474Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:23.215Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 5.388 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:23.218Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:23.488Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 4.934 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:23.491Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-04T14:16:23.575Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 4.847 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:16:23.577Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.887 "http://localhost:3000/register" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:19:06.615Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/register HTTP/1.1" 200 137 99.817 "http://localhost:3000/register" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:19:19.716Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T14:19:19.750Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T14:19:19.751Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.429 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:19:19.754Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 200 183 92.593 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:19:25.087Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 47 3.752 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:19:25.128Z'
+}
+{
+  message: 'The transaction with transactionId dda2db697b7b38fea3802e8a07d8a4cab9352fc644b6399a8a219b5a647a9e4b477a802a8eafa56940194a8d5225f5e70106eb8cd57f07c66d68e5b778cfeef0 is recieved',
+  level: 'info',
+  timestamp: '2020-07-04T14:20:18.071Z'
+}
+{
+  message: 'The transaction with transactionId dda2db697b7b38fea3802e8a07d8a4cab9352fc644b6399a8a219b5a647a9e4b477a802a8eafa56940194a8d5225f5e70106eb8cd57f07c66d68e5b778cfeef0 is done.',
+  level: 'info',
+  timestamp: '2020-07-04T14:20:19.922Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1862.188 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:20:19.927Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:37.836Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:47.830Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:20:57.833Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:07.827Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:17.831Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/registerBlockchain HTTP/1.1" 200 199 13.163 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:21:18.247Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:27.829Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:37.828Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:47.826Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:21:57.832Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:07.831Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:17.833Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:27.831Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:37.830Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:47.824Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:22:57.827Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:07.822Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:17.822Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:27.824Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:37.815Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:47.809Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:23:57.809Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:07.808Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:17.802Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:27.791Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:37.794Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:47.789Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:24:57.795Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:07.794Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:17.798Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:27.801Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:37.790Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:47.786Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:25:57.789Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:07.784Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:17.785Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:27.784Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.711 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:26:37.732Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:37.776Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 125 5.611 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:26:37.983Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-04T14:26:38.421Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 21.980 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:26:38.424Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings HTTP/1.1" 200 79 23.127 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:26:38.426Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:47.777Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:26:57.781Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:07.775Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.133 "http://localhost:3000/makePainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:12.731Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.709 "http://localhost:3000/makePainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:12.896Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.510 "http://localhost:3000/chargeAccount" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:14.694Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.308 "http://localhost:3000/chargeAccount" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:14.812Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:17.778Z'
+}
+{
+  message: 'The transaction with transactionId 96c076b7bd39fd0ef68ea9568536eedc761dce8fd68b39d9851cada7fa48118e1c6a81c3975a14c31d751d33aa271dd9c76ba9cc2dc2025a2cff64b049764f26 is recieved',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:18.179Z'
+}
+{
+  message: 'The transaction with transactionId 96c076b7bd39fd0ef68ea9568536eedc761dce8fd68b39d9851cada7fa48118e1c6a81c3975a14c31d751d33aa271dd9c76ba9cc2dc2025a2cff64b049764f26 is done.',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:19.953Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1778.453 "http://localhost:3000/chargeAccount" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:19.957Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.390 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:20.025Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-04T14:27:20.054Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 273 7.390 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:20.056Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings HTTP/1.1" 304 - 8.897 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:20.057Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:37.766Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:47.763Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:27:57.766Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.279 "http://localhost:3000/makePainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:59.453Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.490 "http://localhost:3000/makePainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:27:59.610Z'
+}
+{
+  message: 'The transaction with transactionId b88723b707a9e640137045107f4446246cbacccd8460fcbb763357793bb9ad2236fa8c90cba082b0a9e69ee10ee0aaa1a6f3e3d81005521b541ed24b955e73a9 is recieved',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:02.896Z'
+}
+{
+  message: 'The transaction with transactionId b88723b707a9e640137045107f4446246cbacccd8460fcbb763357793bb9ad2236fa8c90cba082b0a9e69ee10ee0aaa1a6f3e3d81005521b541ed24b955e73a9 is done.',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:04.210Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1317.640 "http://localhost:3000/makePainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:04.214Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.651 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:04.240Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-04T14:28:04.262Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 6.539 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:04.263Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings HTTP/1.1" 304 - 6.053 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:04.264Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.997 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:15.869Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.335 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:16.006Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-04T14:28:16.382Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 8.695 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:16.387Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings HTTP/1.1" 304 - 8.855 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T14:28:16.389Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:17.769Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:27.768Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:37.758Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:47.758Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:28:57.760Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:07.754Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:17.756Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:27.759Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:37.756Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:47.753Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:29:57.743Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:07.744Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:17.736Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:27.736Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:37.733Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:47.729Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:30:57.723Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:07.716Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:17.708Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:27.700Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:37.702Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:47.697Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:31:57.697Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:07.696Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:17.685Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:27.687Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:37.689Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:47.681Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:32:57.674Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:07.677Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:17.677Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-04T14:33:27.673Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-04T17:42:02.899Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-04T17:42:02.947Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-04T17:42:03.035Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 12.795 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T17:42:14.444Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T17:42:14.711Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T17:42:14.712Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 10.053 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T17:42:14.717Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 11.990 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:16:54.934Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:16:55.245Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:16:55.245Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.524 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:16:55.249Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.951 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:17:01.388Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:17:01.580Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:17:01.580Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.631 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:17:01.584Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.342 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:17:23.035Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:17:23.370Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:17:23.371Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.186 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:17:23.375Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.886 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:18:07.723Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:18:07.992Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:18:07.993Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.507 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:18:07.995Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.658 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:20:12.617Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:20:12.878Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:20:12.878Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.595 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:20:12.883Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 7.391 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:30:37.611Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:30:38.135Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:30:38.136Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.992 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:30:38.139Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.288 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:31:31.364Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:31:31.918Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:31:31.919Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.313 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:31:31.922Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.340 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:31:55.619Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:31:56.191Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:31:56.192Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.371 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:31:56.194Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.798 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:31:59.929Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.648 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:32:37.053Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:32:37.705Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:32:37.705Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 7.367 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:32:37.708Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.676 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:02.395Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:33:03.175Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:33:03.176Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 8.658 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:03.179Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.581 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:10.350Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:33:10.998Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:33:10.998Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.490 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:11.001Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.076 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:21.067Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:33:21.747Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:33:21.748Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.875 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:33:21.751Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.597 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:34:14.871Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:34:15.658Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:34:15.658Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.352 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:34:15.662Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 8.683 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:39:15.355Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:39:16.200Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:39:16.201Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 6.029 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:39:16.205Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.794 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:39:47.591Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:39:48.350Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:39:48.351Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.233 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:39:48.354Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.136 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:43:45.084Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:43:45.809Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:43:45.809Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.177 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:43:45.812Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.438 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:44:26.063Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:44:26.481Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:44:26.481Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 2.980 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:44:26.484Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.837 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:45:10.725Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:45:11.196Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:45:11.196Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.129 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:45:11.199Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.452 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:45:35.959Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:45:36.500Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:45:36.500Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.616 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:45:36.503Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.462 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:09.312Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:46:09.721Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:46:09.721Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.157 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:09.723Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.738 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:43.345Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:46:43.752Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:46:43.752Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.190 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:43.754Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.844 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:57.328Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:46:57.768Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:46:57.768Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 2.884 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:46:57.771Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.671 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:01.421Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:47:01.845Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:47:01.845Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.192 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:01.848Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.702 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:04.059Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.724 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:08.502Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:47:09.129Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:47:09.130Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.736 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:09.132Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.742 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:39.853Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-04T18:47:40.557Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-04T18:47:40.558Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.847 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-04T18:47:40.560Z'
+}

@@ -47260,3 +47260,51 @@
   service: 'user-service',
   timestamp: '2020-06-13T20:03:07.984Z'
 }
+{
+  message: 'Creating Account for 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:20:18.096Z'
+}
+{
+  message: 'Creating Account for 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:20:18.879Z'
+}
+{
+  message: 'Charging Account : 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225 with 10',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:27:18.193Z'
+}
+{
+  message: 'The balance is changing to: 10.000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:27:18.201Z'
+}
+{
+  message: 'Charging Account : 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225 with 10',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:27:18.918Z'
+}
+{
+  message: 'The balance is changing to: 10.000',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:27:18.923Z'
+}
+{
+  message: 'Creating Painting 0.10000000149011612,0.20000000298023224,0.30000001192092896 for 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:28:02.910Z'
+}
+{
+  message: 'Creating Painting 0.10000000149011612,0.20000000298023224,0.30000001192092896 for 02f270c7227ff874338d4933cd44a79ce8b36180e5bf92db4c6b7f29faca77e225',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-04T14:28:03.175Z'
+}
