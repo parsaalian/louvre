@@ -20,6 +20,10 @@ const createPaintingAddress = (paintKey) => {
 	return NAMESPACE + 'ab' + hash(Buffer.from(paintKey)).substr(0, 60) + 'ab';
 };
 
+const createSellAddress = (offerId) => {
+	return NAMESPACE + 'sl' + hash(offerId).substr(0,60) + 'sl';
+};
+
 module.exports = {
 	createAccountAddress,
 	createOfferAddress,
