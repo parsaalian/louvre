@@ -1,4 +1,4 @@
-import 'rsuite/dist/styles/rsuite-default.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';

@@ -1519,3 +1519,78 @@
   level: 'error',
   timestamp: '2020-07-04T18:47:40.557Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T12:15:23.758Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:17:40.336Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:17:57.255Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:18:01.938Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-10T16:04:21.515Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T11:09:48.342Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T11:23:51.022Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:24:17.054Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:27:57.332Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:09.133Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:27.920Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:30.614Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:34.117Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:39.979Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:43.827Z'
+}

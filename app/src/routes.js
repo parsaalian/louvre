@@ -10,6 +10,7 @@ import ChargeAccount from './components/transactions/chargeAccount';
 import MakePainting from './components/transactions/makePainting';
 import Register from './containers/admin/register';
 import ChangePassword from './components/Admin/changePassword';
+import Gallery from './components/Gallery';
 
 const Routes = () => {
 	return (
@@ -23,6 +24,7 @@ const Routes = () => {
 				<Route path="/dashboard" exact component={AuthenticationCheck(User, true)} />
 				<Route path="/chargeAccount" exact component={AuthenticationCheck(ChargeAccount, true)} />
 				<Route path="/makePainting" exact component={AuthenticationCheck(MakePainting, true)} />
+				<Route path="/gallery" exact component={Gallery} />
 			</Switch>
 		</Layout>
 	);

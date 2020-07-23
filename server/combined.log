@@ -10604,3 +10604,683 @@
   level: 'info',
   timestamp: '2020-07-04T18:47:40.560Z'
 }
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-09T12:15:05.243Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-09T12:15:05.293Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-09T12:15:05.324Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 10.738 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T12:15:23.196Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T12:15:23.758Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-09T12:15:23.759Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 10.499 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T12:15:23.765Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 11.542 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:17:39.614Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:17:40.336Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-09T13:17:40.337Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.333 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:17:40.339Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.316 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:17:56.630Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:17:57.255Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-09T13:17:57.255Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.585 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:17:57.259Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.887 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:18:01.489Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-09T13:18:01.938Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-09T13:18:01.938Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.032 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:18:01.940Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.660 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:20:43.716Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.012 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:21:15.949Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.061 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:22:29.295Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.829 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:22:36.626Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.195 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:23:04.286Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.391 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:23:06.663Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.294 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-09T13:23:43.629Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-10T16:04:01.577Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-10T16:04:01.630Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-10T16:04:01.650Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 13.207 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:04:21.048Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-10T16:04:21.515Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-10T16:04:21.515Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 10.957 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:04:21.520Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.122 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:06:18.788Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 12.645 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:24:09.810Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.988 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:24:54.414Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.473 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:26:45.188Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.137 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:27:13.442Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.233 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:27:56.098Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.600 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:28:18.334Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.210 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:28:35.954Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.417 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:28:42.947Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.699 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:28:49.897Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.671 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-10T16:28:57.916Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:27.185Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:27.226Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:27.280Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 16.377 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:48.043Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T11:09:48.342Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T11:09:48.343Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 9.491 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:48.347Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.020 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T11:09:55.682Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 6.101 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T11:23:50.779Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T11:23:51.022Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T11:23:51.023Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.631 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T11:23:51.025Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-11T14:24:05.251Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-11T14:24:05.297Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-11T14:24:05.399Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 13.087 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:24:16.739Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:24:17.054Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:24:17.055Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 9.761 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:24:17.061Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.713 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:27:56.962Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:27:57.332Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:27:57.333Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.957 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:27:57.336Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.599 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:08.791Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:09.133Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:28:09.134Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.920 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:09.137Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.075 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:27.593Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:27.920Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:28:27.920Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.466 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:27.923Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.431 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:30.320Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:28:30.614Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:28:30.614Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.161 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:28:30.616Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.218 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:33.771Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:34.117Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:29:34.118Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.359 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:34.121Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.117 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:39.678Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:39.979Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:29:39.979Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.737 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:39.982Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.848 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:43.543Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-11T14:29:43.827Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-11T14:29:43.827Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.383 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:43.830Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.984 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:46.108Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.241 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:47.895Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.002 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:29:59.292Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.052 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:30:04.667Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.584 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:30:24.396Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.374 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:31:03.110Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.883 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:31:06.073Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.351 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:31:11.916Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.348 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:31:54.474Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.966 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:32:04.197Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.879 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:32:19.042Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.482 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:33:18.822Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.534 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:34:18.553Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.404 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:34:36.925Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.795 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:34:43.321Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.256 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:35:01.601Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.376 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:37:47.388Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.683 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:37:52.933Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.511 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:39:11.658Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.667 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:39:51.155Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.699 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:39:57.798Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.027 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:40:02.882Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.578 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:40:17.612Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.036 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:43:07.947Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.730 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:43:25.629Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.985 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:43:43.927Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.083 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:44:27.070Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.914 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:45:02.613Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.953 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:48:01.896Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.330 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:48:41.068Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 7.715 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:49:11.535Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.753 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:49:25.312Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.897 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:49:39.706Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.986 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:50:13.832Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.624 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:50:21.546Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.548 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:51:02.958Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.469 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:51:19.880Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.451 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:52:21.176Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.361 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:52:41.615Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.082 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:54:40.537Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.929 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:55:08.528Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.237 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:55:55.965Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.194 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:56:59.954Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.500 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:58:41.086Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.466 "http://localhost:3000/gallery" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-11T14:59:04.819Z'
+}
