@@ -59,7 +59,12 @@ const addPainting = (painting, blockNum) => {
 	return addBlockState('painting', 'gene', painting.gene, painting, blockNum);
 };
 
+const addOffer = (offer, blockNum) => {
+	return addBlockState('offer', 'offerId', offer.offerId, offer, blockNum);
+};
+
 module.exports = {
 	addUser,
-	addPainting
+	addPainting,
+	addOffer
 };

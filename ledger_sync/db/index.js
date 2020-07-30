@@ -135,6 +135,18 @@ const bootsrapDatabase = () => {
 							}
 						}),
 
+						r.db(NAME).tableList().contains('offer').run(conn).then((tableExist) => {
+							if (tableExist) logger.info('The offer table already exists');
+							else {
+								return r
+									.db(NAME)
+									.tableCreate('offer', {
+										primary_key: 'offerId'
+									})
+									.run(conn);
+							}
+						}),
+
 						r.db(NAME).tableList().contains('blocks').run(conn).then((tableExist) => {
 							if (tableExist) logger.info('The blocks table already exists');
 							else {
