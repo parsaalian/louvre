@@ -369,7 +369,7 @@ class BC98State {
 			const payloadPainting = {
 				owner: paintingValue.owner,
 				gene: paintingValue.gene,
-				for_sale: for_sale
+				for_sale: true
 			};
 
 			const dataPainting = this.encodeFunction([ payloadPainting ], '../protos/painting.proto', 'Painting');
