@@ -202,7 +202,6 @@ class BC98State {
 			const paintingPayload = {
 				owner: ownerKey,
 				gene: paintingKey,
-				offered_price: -1,
 				for_sale: false
 			};
 			const paintingData = this.encodeFunction([ paintingPayload ], '../protos/painting.proto', 'Painting');
@@ -357,6 +356,31 @@ class BC98State {
 				logger.error(`getOffer in blockchain is not responding: ${message}`);
 				throw new Error(`getOffer in blockchain is not responding: ${err}`);
 			});
+	}
+
+	makeOfferable(paintingKey) {
+		return this.getMessage(paintingKey, 'Painting')
+		.then((paintingValue) => {
+			if (!paintingKey || paintingKey.gene !== paintingKey) {
+				logger.error('No such painting exists in!');
+				throw new Error('The gene is not valid!');
+			}
+
+			const payloadPainting = {
+				owner: paintingValue.owner,
+				gene: paintingValue.gene,
+				for_sale: for_sale
+			};
+
+			const dataPainting = this.encodeFunction([ payloadPainting ], '../protos/painting.proto', 'Painting');
+
+			const addressPainting = createPaintingAddress(paintingValue.gene);
+
+			this.addressCache.set(addressPainting, dataPainting[0]);
+
+			let entries = {
+				[addressPainting]: dataPainting[0]
+			};
 	}
 }
 

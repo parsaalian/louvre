@@ -142,10 +142,26 @@ class Blockchain98Handler extends TransactionHandler {
 							if (paintingValue.owner != userPublicKey) {
 								throw new Error('you don\'t own this painting to sell it.');
 							}
-							return bC98State.makeOffer(paintingKey, buyerKey);
+							return bC98State.accepOffer(paintingKey, buyerKey);
 						});
 				};
 				
+				const makeOfferable = (paintingKey) => {
+					return bC98State
+						.getMessage(paintingKey, 'Painting')
+						.catch((err) => {
+							const message = err.message || err;
+							logger.error(`makeOfferable in blockchain is not responding: ${message}`);
+							throw new Error(`makeOfferable in blockchain is not responding: ${err}`);
+						})
+						.then((paintingValue) => {
+							if (paintingValue.owner != userPublicKey) {
+								throw new Error('you don\'t own this painting to sell it.');
+							}
+							return bC98State.makeOfferable(paintingKey);
+						});
+				};
+
 
 				let actionPromise;
 
@@ -208,9 +224,9 @@ class Blockchain98Handler extends TransactionHandler {
 							throw new Error('update does not have "makeofferable" field!');
 						}
 
-						let { gene, price } = payload.makeofferable
+						let { gene } = payload.makeofferable
 
-						actionPromise = makeOfferable(gene, price);
+						actionPromise = makeOfferable(gene);
 						break;
 
 					default:

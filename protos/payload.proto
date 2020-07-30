@@ -39,5 +39,4 @@ message AcceptOfferAction {
 
 message MakeOfferableAction {
     repeated float gene = 1;
-    float price = 2;
 }
