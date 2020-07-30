@@ -3,7 +3,7 @@
 const path = require('path');
 const _ = require('lodash');
 const protobuf = require('protobufjs');
-const logger = require('../system/logger');
+const { logger } = require('../system/logger');
 
 const protos = {};
 
