@@ -37,8 +37,11 @@ const stateAdder = (address) => {
 		case 'ac':
 			addState = state.addUser;
 			break;
-		case 'ab':
+		case 'ba':
 			addState = state.addPainting;
+			break;
+		case 'af':
+			addState = state.addOffer;
 			break;
 		default:
 			logger.warn('NO VALID ADDRESS!!');
@@ -55,9 +58,14 @@ const getEntries = ({ address, value }) => {
 				const decAccount = protos.Account.decode(value);
 				decObject = protos.Account.toObject(decAccount, {});
 				break;
-			case 'ab':
+			case 'ba':
 				const decPainting = protos.Painting.decode(value);
 				decObject = protos.Painting.toObject(decPainting, {});
+				break;
+			case 'af':
+				const decOffer = protos.Offer.decode(value);
+				decObject = protos.Offer.toObject(decOffer, {});
+				break;
 			default:
 				logger.warn('INVALID ADDRESS');
 		}

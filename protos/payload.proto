@@ -7,10 +7,10 @@ message PGPayload {
     CreateAccountAction createaccount = 200;
     ChargeAccountAction chargeaccount = 201;
     CreatePaintingAction createPainting = 202;
+    CreateOfferAction createoffer = 203;
+    AcceptOfferAction acceptoffer = 204;
     }
 }
-
-
 
 message CreateAccountAction {
     string label = 1;
@@ -22,4 +22,14 @@ message ChargeAccountAction {
 
 message CreatePaintingAction {
 	repeated float gene = 1;
+}
+
+message CreateOfferAction {
+	float price = 1;
+	int32 paintingId = 2;
+	string owner_pubKey = 3;
+}
+
+message AcceptOfferAction {
+	Offer offer = 1;
 }

@@ -30,7 +30,9 @@ const compile = () => {
 
 		loadProtos('payload.proto', [ 'PGPayload' ]),
 
-		loadProtos('painting.proto', [ 'Painting' ])
+		loadProtos('painting.proto', [ 'Painting' ]),
+
+		loadProtos('offer.proto', [ 'Offer' ])
 	]).catch((err) => {
 		const message = err.message ? err.message : err;
 		logger.error(`Loading protos has some errors: ${message}`);
