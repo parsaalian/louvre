@@ -1,6 +1,6 @@
 syntax = "proto3";
-import "louvre/player.proto";
-import "louvre/painting.proto";
+import "account.proto";
+import "painting.proto";
 
 message Offer {
   required int32 offer_id = 1;
