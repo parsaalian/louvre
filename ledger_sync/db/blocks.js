@@ -3,7 +3,7 @@
 const r = require('rethinkdb');
 const db = require('./');
 
-const stateTables = [ 'users', 'painting' ];
+const stateTables = [ 'users', 'painting', 'offer' ];
 
 const getForkedDocRemover = (blockNum) => (tableName) => {
 	return db.modifyTable(tableName, (table) => {
