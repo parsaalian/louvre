@@ -1,9 +1,5 @@
 const pb = require('protobufjs');
-const {
-	createAccountAddress,
-	createOfferAddress,
-	createPaintingAddress,
-} = require('../addressing/address');
+const { createAccountAddress, createOfferAddress, createPaintingAddress } = require('../addressing/address');
 const { logger } = require('./logger');
 
 class BC98State {
@@ -248,11 +244,7 @@ class BC98State {
 	acceptOffer(paintingKey, buyerKey) {
 		return this.getMessage([ paintingKey, buyerKey ], 'Offer')
 			.then((offerValue) => {
-				if (
-					!offerValue ||
-					offerValue.paintingKey !== paintingKey ||
-					offerValue.buyerKey !== buyerKey
-				) {
+				if (!offerValue || offerValue.paintingKey !== paintingKey || offerValue.buyerKey !== buyerKey) {
 					logger.error('No offer with these attributes found!');
 					throw new Error('Painting attributes are not valid!');
 				}
@@ -330,7 +322,7 @@ class BC98State {
 									logger.info(
 										`Painting ${paintingKey} is changing ownership from player ${sellerKey} to ${buyerKey}`
 									);
-	
+
 									return this.context
 										.setState({
 											[offerAddress]: offerData[0],
@@ -360,27 +352,33 @@ class BC98State {
 
 	makeOfferable(paintingKey) {
 		return this.getMessage(paintingKey, 'Painting')
-		.then((paintingValue) => {
-			if (!paintingKey || paintingKey.gene !== paintingKey) {
-				logger.error('No such painting exists in!');
-				throw new Error('The gene is not valid!');
-			}
+			.then((paintingValue) => {
+				if (!paintingKey || paintingKey.gene !== paintingKey) {
+					logger.error('No such painting exists in!');
+					throw new Error('The gene is not valid!');
+				}
 
-			const payloadPainting = {
-				owner: paintingValue.owner,
-				gene: paintingValue.gene,
-				for_sale: true
-			};
+				const payloadPainting = {
+					owner: paintingValue.owner,
+					gene: paintingValue.gene,
+					for_sale: true
+				};
 
-			const dataPainting = this.encodeFunction([ payloadPainting ], '../protos/painting.proto', 'Painting');
+				const dataPainting = this.encodeFunction([ payloadPainting ], '../protos/painting.proto', 'Painting');
 
-			const addressPainting = createPaintingAddress(paintingValue.gene);
+				const addressPainting = createPaintingAddress(paintingValue.gene);
 
-			this.addressCache.set(addressPainting, dataPainting[0]);
+				this.addressCache.set(addressPainting, dataPainting[0]);
 
-			let entries = {
-				[addressPainting]: dataPainting[0]
-			};
+				let entries = {
+					[addressPainting]: dataPainting[0]
+				};
+			})
+			.catch((err) => {
+				let message = err.message ? err.message : err;
+				logger.error(`makeOfferable in blockchain is not responding!: ${message}`);
+				throw new Error('makeOfferable in blockchain is not responding!:' + ' ' + err);
+			});
 	}
 }
 
