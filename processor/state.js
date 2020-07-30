@@ -2,9 +2,7 @@ const pb = require('protobufjs');
 const {
 	createAccountAddress,
 	createOfferAddress,
-	createPlayerAddress,
 	createPaintingAddress,
-	createSellAddress
 } = require('../addressing/address');
 const { logger } = require('./logger');
 
@@ -44,9 +42,6 @@ class BC98State {
 				break;
 			case 'Offer':
 				address = createOfferAddress(key[0], key[1]);
-				break;
-			case 'Player':
-				address = createPlayerAddress(key);
 				break;
 			case 'Painting':
 				address = createPaintingAddress(key);
@@ -118,14 +113,9 @@ class BC98State {
 				address = createAccountAddress(key);
 				pathFile = '../protos/account.proto';
 				break;
-			// TODO: be aware of proto file names.
 			case 'Offer':
 				address = createOfferAddress(key[0], key[1]);
 				pathFile = '../protos/offer.proto';
-				break;
-			case 'Player':
-				address = createPlayerAddress(key);
-				pathFile = '../protos/player.proto';
 				break;
 			case 'Painting':
 				address = createPaintingAddress(key);
@@ -140,175 +130,6 @@ class BC98State {
 			logger.error(`loadMessage has some problems: ${message}`);
 			throw new Error('loadMessage has some problems:' + ' ' + err);
 		});
-	}
-
-	// //////////////////////////////////////////////////////////////////////
-	// ########## Offer Actions #######################
-	// /////////////////////////////////////////////////////////////////////
-
-	sellPainting(offer){
-		try{
-			const sellPayload = {
-				offer,
-				accepted: true
-			};
-			const sellData = this.encodeFunction(
-				[sellPayload],
-				'../protos/payload.proto',
-				'sell'
-			);
-			const sellAddress = createSellAddress(offer.id);
-			this.addressCache.set(sellAddress, sellData[0]);
-			return this.context.setState({
-				[sellAddress]:sellData[0]
-			});
-		}
-		catch (e) {
-			const message = e.message || e;
-			logger.error(`setState in sellPainting has some problems: ${message}`)
-			throw new Error(`setState in sellPainting has some problems: ${e}`);
-		}
-	}
-
-	makeOffer(paintingKey, sellerKey, buyerKey, offer) {
-		try {
-			const offerPayload = {
-				paintingKey,
-				sellerKey,
-				buyerKey,
-				offer,
-				accepted: false
-			};
-			const offerData = this.encodeFunction(
-				[ offerPayload ],
-				'../protos/payload.proto',
-				/* TODO: offer payload name */ 'Offer'
-			);
-			const offerAddress = createOfferAddress(paintingKey, buyerKey);
-			this.addressCache.set(offerAddress, offerData[0]);
-
-			return this.context.setState({
-				[offerAddress]: offerData[0]
-			});
-		} catch (err) {
-			const message = err.message || err;
-			logger.error(`setState in makeOffer has some problems: ${message}`);
-			throw new Error(`setState in makeOffer has some problems: ${err}`);
-		}
-	}
-
-	acceptOffer(paintingKey, sellerKey, buyerKey) {
-		return this.getMessage([ paintingKey, buyerKey ], 'Offer')
-			.then((offerValue) => {
-				if (
-					!offerValue ||
-					offerValue.paintingKey !== paintingKey ||
-					offerValue.sellerKey !== sellerKey ||
-					offerValue.buyerKey !== buyerKey
-				) {
-					logger.error('No offer with these attributes found!');
-					throw new Error('Painting attributes are not valid!');
-				}
-
-				const offerAmount = Number(offerValue.offer);
-
-				return this.getMessage(buyerKey, 'Player')
-					.then((buyerValue) => {
-						if (Number(buyerValue.balance) < offerAmount) {
-							logger.error('Buyer does not have enough balance.');
-							throw new Error('Not enough balance.');
-						}
-
-						return this.getMessage(paintingKey, 'Painting')
-							.then((paintingValue) => {
-								if (paintingValue.owner !== sellerKey) {
-									logger.error('This player is not the owner of painting!');
-									throw new Error('This player is not the owner of painting!');
-								}
-
-								return this.getMessage(sellerKey, 'Player').then((sellerValue) => {
-									const offerPayload = {
-										...offerValue,
-										accepted: true
-									};
-
-									const sellerPayload = {
-										...sellerValue,
-										balance: sellerValue.balance + offerAmount
-									};
-
-									const buyerPayload = {
-										...buyerValue,
-										balance: buyerValue.balance - offerAmount
-									};
-
-									const paintingPayload = {
-										...paintingValue,
-										owner: buyerPayload.pubKey
-									};
-
-									const offerData = this.encodeFunction(
-										[ offerPayload ],
-										'../protos/offer.proto',
-										'Offer'
-									);
-									const offerAddress = createOfferAddress([ paintingKey, buyerKey ]);
-
-									const sellerData = this.encodeFunction(
-										[ sellerPayload ],
-										'../protos/player.proto',
-										'Player'
-									);
-									const sellerAddress = createPlayerAddress(sellerKey);
-
-									const buyerData = this.encodeFunction(
-										[ buyerPayload ],
-										'../protos/player.proto',
-										'Player'
-									);
-									const buyerAddress = createPlayerAddress(buyerKey);
-
-									const paintingData = this.encodeFunction(
-										[ paintingPayload ],
-										'../protos/player.proto',
-										'Player'
-									);
-									const paintingAddress = createPaintingAddress(paintingKey);
-
-									this.addressCache.set(offerAddress, offerData[0]);
-									this.addressCache.set(sellerAddress, sellerData[0]);
-									this.addressCache.set(buyerAddress, buyerData[0]);
-									this.addressCache.set(paintingAddress, paintingData[0]);
-								});
-
-								logger.info(
-									`Painting ${paintingKey} is changing ownership from player ${sellerKey} to ${buyerKey}`
-								);
-
-								return this.context
-									.setState({
-										[offerAddress]: offerData[0],
-										[sellerAddress]: sellerData[0],
-										[buyerAddress]: buyerData[0],
-										[paintingAddress]: paintingData[0]
-									})
-									.catch((err) => {
-										throw err;
-									});
-							})
-							.catch((err) => {
-								throw err;
-							});
-					})
-					.catch((err) => {
-						throw err;
-					});
-			})
-			.catch((err) => {
-				const message = err.message || err;
-				logger.error(`getOffer in blockchain is not responding: ${message}`);
-				throw new Error(`getOffer in blockchain is not responding: ${err}`);
-			});
 	}
 
 	// //////////////////////////////////////////////////////////////////////
@@ -381,7 +202,7 @@ class BC98State {
 			const paintingPayload = {
 				owner: ownerKey,
 				gene: paintingKey,
-				offer_price: -1,
+				offered_price: -1,
 				for_sale: false
 			};
 			const paintingData = this.encodeFunction([ paintingPayload ], '../protos/painting.proto', 'Painting');
@@ -397,6 +218,145 @@ class BC98State {
 			logger.error(`setState in createPainting has some problems: ${message}`);
 			throw new Error('setState in createPainting has some problems:' + ' ' + err);
 		}
+	}
+
+	makeOffer(paintingKey, buyerKey, offer) {
+		try {
+			const offerPayload = {
+				paintingKey,
+				buyerKey,
+				offer,
+				accepted: false
+			};
+			const offerData = this.encodeFunction(
+				[ offerPayload ],
+				'../protos/payload.proto',
+				/* TODO: offer payload name */ 'Offer'
+			);
+			const offerAddress = createOfferAddress(paintingKey, buyerKey);
+			this.addressCache.set(offerAddress, offerData[0]);
+
+			return this.context.setState({
+				[offerAddress]: offerData[0]
+			});
+		} catch (err) {
+			const message = err.message || err;
+			logger.error(`setState in makeOffer has some problems: ${message}`);
+			throw new Error(`setState in makeOffer has some problems: ${err}`);
+		}
+	}
+
+	acceptOffer(paintingKey, buyerKey) {
+		return this.getMessage([ paintingKey, buyerKey ], 'Offer')
+			.then((offerValue) => {
+				if (
+					!offerValue ||
+					offerValue.paintingKey !== paintingKey ||
+					offerValue.buyerKey !== buyerKey
+				) {
+					logger.error('No offer with these attributes found!');
+					throw new Error('Painting attributes are not valid!');
+				}
+
+				const offerAmount = Number(offerValue.offer);
+
+				return this.getMessage(buyerKey, 'Account')
+					.then((buyerValue) => {
+						if (Number(buyerValue.balance) < offerAmount) {
+							logger.error('Buyer does not have enough balance.');
+							throw new Error('Not enough balance.');
+						}
+
+						return this.getMessage(paintingKey, 'Painting')
+							.then((paintingValue) => {
+								if (paintingValue.owner !== sellerKey) {
+									logger.error('This player is not the owner of painting!');
+									throw new Error('This player is not the owner of painting!');
+								}
+
+								return this.getMessage(paintingValue.owner, 'Account').then((sellerValue) => {
+									const offerPayload = {
+										...offerValue,
+										accepted: true
+									};
+
+									const sellerPayload = {
+										...sellerValue,
+										balance: sellerValue.balance + offerAmount
+									};
+
+									const buyerPayload = {
+										...buyerValue,
+										balance: buyerValue.balance - offerAmount
+									};
+
+									const paintingPayload = {
+										...paintingValue,
+										owner: buyerPayload.pubKey
+									};
+
+									const offerData = this.encodeFunction(
+										[ offerPayload ],
+										'../protos/offer.proto',
+										'Offer'
+									);
+									const offerAddress = createOfferAddress([ paintingKey, buyerKey ]);
+
+									const sellerData = this.encodeFunction(
+										[ sellerPayload ],
+										'../protos/account.proto',
+										'Account'
+									);
+									const sellerAddress = createAccountAddress(paintingValue.owner);
+
+									const buyerData = this.encodeFunction(
+										[ buyerPayload ],
+										'../protos/account.proto',
+										'Account'
+									);
+									const buyerAddress = createAccountAddress(buyerKey);
+
+									const paintingData = this.encodeFunction(
+										[ paintingPayload ],
+										'../protos/account.proto',
+										'Account'
+									);
+									const paintingAddress = createPaintingAddress(paintingKey);
+
+									this.addressCache.set(offerAddress, offerData[0]);
+									this.addressCache.set(sellerAddress, sellerData[0]);
+									this.addressCache.set(buyerAddress, buyerData[0]);
+									this.addressCache.set(paintingAddress, paintingData[0]);
+
+									logger.info(
+										`Painting ${paintingKey} is changing ownership from player ${sellerKey} to ${buyerKey}`
+									);
+	
+									return this.context
+										.setState({
+											[offerAddress]: offerData[0],
+											[sellerAddress]: sellerData[0],
+											[buyerAddress]: buyerData[0],
+											[paintingAddress]: paintingData[0]
+										})
+										.catch((err) => {
+											throw err;
+										});
+								});
+							})
+							.catch((err) => {
+								throw err;
+							});
+					})
+					.catch((err) => {
+						throw err;
+					});
+			})
+			.catch((err) => {
+				const message = err.message || err;
+				logger.error(`getOffer in blockchain is not responding: ${message}`);
+				throw new Error(`getOffer in blockchain is not responding: ${err}`);
+			});
 	}
 }
 

@@ -6,9 +6,10 @@ message PGPayload {
     oneof options {
     CreateAccountAction createaccount = 200;
     ChargeAccountAction chargeaccount = 201;
-    CreatePaintingAction createPainting = 202;
+    CreatePaintingAction createpainting = 202;
     CreateOfferAction createoffer = 203;
     AcceptOfferAction acceptoffer = 204;
+    MakeOfferableAction makeofferable = 205;
     }
 }
 
@@ -21,15 +22,22 @@ message ChargeAccountAction {
 }
 
 message CreatePaintingAction {
-	repeated float gene = 1;
+    repeated float gene = 1;
+    string owner = 2 ;
 }
 
 message CreateOfferAction {
 	float price = 1;
-	int32 paintingId = 2;
-	string owner_pubKey = 3;
+	repeated float gene = 2;
+	string offerer_pubKey = 3;
 }
 
 message AcceptOfferAction {
-	Offer offer = 1;
+    repeated float gene = 1;
+    string buyerKey = 2;
+}
+
+message MakeOfferableAction {
+    repeated float gene = 1;
+    float price = 2;
 }

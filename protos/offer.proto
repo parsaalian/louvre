@@ -3,9 +3,8 @@ import "account.proto";
 import "painting.proto";
 
 message Offer {
-  required int32 offer_id = 1;
-  float offerer_pubKey = 2;
-  float offered_price = 3;
-  Painting offered_on = 4;
-  bool accepted = 5;
+  required string buyerKey = 2;
+  required float offer = 3;
+  required repeated float paintingKey = 4;
+  required bool accepted = 5 [default = false]; 
 }

@@ -61,12 +61,6 @@ class Blockchain98Handler extends TransactionHandler {
 					throw new Error('Action is required!');
 				}
 
-				// This function get the following inputs and check the
-				// database address and pass inputs to "BC98State.setAccount"
-				// label: "USER"
-				// publicKey: transactionProcessRequest.header.signerPublicKey
-				// transactionId: transactionProcessRequest.signature
-				// actionTx: update.action // Action of transaction
 				const createAccount = (label, publicKey) => {
 					if (label !== 'USER') {
 						const error = new Error('The label is not valid.');
@@ -93,6 +87,14 @@ class Blockchain98Handler extends TransactionHandler {
 						});
 				};
 
+				const chargeAccount = (amount, publicKey) => {
+					if (isNaN(Number(amount)) || !Number.isInteger(Number(amount))) {
+						throw new Error('The amount is not valid!');
+					}
+					logger.info('Charging Account : ' + publicKey + ' with ' + amount);
+					return bC98State.setCharge(amount, publicKey);
+				};
+
 				const createPainting = (paintingKey) => {
 					return bC98State
 						.getMessage(paintingKey, 'Painting')
@@ -111,10 +113,7 @@ class Blockchain98Handler extends TransactionHandler {
 						});
 				};
 
-				const makeOffer = (paintingKey, sellerKey, buyerKey, offer) => {
-					if (sellerKey !== userPublicKey) {
-						throw new Error('User is not valid.');
-					}
+				const createOffer = (offer, paintingKey, buyerKey) => {
 					return bC98State
 						.getMessage([ paintingKey, sellerKey ], 'Offer')
 						.catch((err) => {
@@ -127,31 +126,26 @@ class Blockchain98Handler extends TransactionHandler {
 								logger.error('Offer Already exists!!');
 								throw new Error('Offer Already exists!!');
 							}
-							return bC98State.makeOffer(paintingKey, sellerKey, buyerKey, offer);
+							return bC98State.makeOffer(paintingKey, buyerKey, offer);
 						});
 				};
 
-				const acceptOffer = (paintingKey, sellerKey, buyerKey) => {
-					if (buyerKey !== userPublicKey) {
-						throw new Error('User is not valid.');
-					}
-					return bC98State.makeOffer(paintingKey, sellerKey, buyerKey);
+				const acceptOffer = (paintingKey, buyerKey) => {
+					return bC98State
+						.getMessage(paintingKey, 'Painting')
+						.catch((err) => {
+							const message = err.message || err;
+							logger.error(`acceptOffer in blockchain is not responding: ${message}`);
+							throw new Error(`acceptOffer in blockchain is not responding: ${err}`);
+						})
+						.then((paintingValue) => {
+							if (paintingValue.owner != userPublicKey) {
+								throw new Error('you don\'t own this painting to sell it.');
+							}
+							return bC98State.makeOffer(paintingKey, buyerKey);
+						});
 				};
-
-				// This function get the following inputs and check the
-				// database address and pass inputs to "BC98State.setCharge"
-				// amount: The amount of charge.
-				// publicKey: transactionProcessRequest.header.signerPublicKey
-				// transactionId: transactionProcessRequest.signature
-				// actionTx: update.action // Action of transaction
-				// timestampTx: The timestamp which is sent by client.
-				const chargeAccount = (amount, publicKey) => {
-					if (isNaN(Number(amount)) || !Number.isInteger(Number(amount))) {
-						throw new Error('The amount is not valid!');
-					}
-					logger.info('Charging Account : ' + publicKey + ' with ' + amount);
-					return bC98State.setCharge(amount, publicKey);
-				};
+				
 
 				let actionPromise;
 
@@ -176,14 +170,47 @@ class Blockchain98Handler extends TransactionHandler {
 						break;
 
 					case 'CreatePaintingAction':
-						if (!update && !update.createPainting) {
-							logger.error('update does not have "createPainting" field!');
-							throw new Error('update does not have "createPainting" field!');
+						if (!update && !update.createpainting) {
+							logger.error('update does not have "createpainting" field!');
+							throw new Error('update does not have "createpainting" field!');
 						}
 
-						let key = update.createPainting.gene;
+						let key = update.createpainting.gene;
 
 						actionPromise = createPainting(key);
+						break;
+
+					case 'CreateOfferAction':
+						if (!update && !update.createoffer) {
+							logger.error('update does not have "createoffer" field!');
+							throw new Error('update does not have "createoffer" field!');
+						}
+
+						let { price, gene, offerer_pubKey } = payload.createoffer
+
+						actionPromise = createOffer(price, gene, offerer_pubKey)
+						break;
+
+					case 'AcceptOfferAction':
+						if (!update && !update.acceptoffer) {
+							logger.error('update does not have "acceptoffer" field!');
+							throw new Error('update does not have "acceptoffer" field!');
+						}
+
+						let { gene, buyerKey } = payload.acceptoffer
+
+						actionPromise = acceptOffer(gene, buyerKey);
+						break;
+					
+					case 'MakeOfferableAction':
+						if (!update && !update.makeofferable) {
+							logger.error('update does not have "makeofferable" field!');
+							throw new Error('update does not have "makeofferable" field!');
+						}
+
+						let { gene, price } = payload.makeofferable
+
+						actionPromise = makeOfferable(gene, price);
 						break;
 
 					default:
