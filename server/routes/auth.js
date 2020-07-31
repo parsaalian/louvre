@@ -245,6 +245,7 @@ router.post('/login', (req, res, next) => {
 							err.messageEnglish = 'Error happened during the login!';
 							next(err);
 						} else {
+							console.log(user);
 							req.session.email = req.body.email;
 							req.session.pubKey = user.pubKey;
 							res.json({

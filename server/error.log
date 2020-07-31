@@ -1594,3 +1594,173 @@
   level: 'error',
   timestamp: '2020-07-11T14:29:43.827Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-30T14:24:03.666Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-30T14:25:23.699Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-30T14:26:47.387Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T05:50:35.634Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T05:53:15.491Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T05:53:33.666Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T05:55:25.840Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T05:56:17.321Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:01:16.272Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:03:17.318Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:05:13.145Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:05:41.380Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:05:44.306Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:06:04.216Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:06:09.952Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:06:59.582Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:07:03.668Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:07:38.049Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:11:37.692Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T06:11:38.119Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:16:11.188Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:16:29.943Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:17:07.322Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:18:42.791Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:20:32.668Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:20:47.195Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:20:59.505Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:21:24.306Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T07:22:15.306Z'
+}
+{
+  message: "Batch 4c17e17f2a3fdb6c91b885cef9f31b4563fe255cf3bb0658ad46b7ccfc740620514ac191af58f444fd1451f42af06c19757619a73d72122f43119fb4dacdd7a2 is INVALID, with message: Cannot read property 'gene' of null",
+  level: 'error',
+  timestamp: '2020-07-31T08:02:14.378Z'
+}
+{
+  message: 'Batch c57e27414d485235bde5272907bcd3b4dbac85b5aae116d72bf35df75d6b3948067b20d87366afd1fffb25aff0d90845b4d95e404bc5256f6929c90133a63ae9 is INVALID, with message: Painting Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T08:14:14.426Z'
+}
+{
+  message: 'Batch 8ffee869b44adabad602877bdf07e2c51e0ca80a07b09683cfae5746e981ccbf4f17f08573d613119453316f4608bd984da59129f0014edb78f3f85d9c5927aa is INVALID, with message: Painting Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T08:26:09.090Z'
+}
+{
+  message: 'Batch 2857ae449f28c88d48c5fa679ad46f350607c8317c7e1dbd0de41562121605f13f76f0736d450e87c86fc52fdd04f5424294dedfaeff982e3dc303d7b046dda9 is INVALID, with message: Painting Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T08:28:19.646Z'
+}
+{
+  message: 'Batch ca652d6d1a2a97f789ab28645718019af9d53d57e6ee1a017917d790c6ec2b8a5a69a5d5eeec1693d504d02e9c016b14a95f8c11608fd3c5318a0b2637087aab is INVALID, with message: Painting Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T08:30:14.067Z'
+}

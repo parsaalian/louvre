@@ -1,0 +1,142 @@
+{
+  error: Error: ReqlOpFailedError: Cannot perform read: primary replica for shard ["", +inf) not available in:
+  r.table("blocks").isEmpty()
+  ^^^^^^^^^^^^^^^^^          
+      at /Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/subscriber/index.js:85:12
+      at tryCatcher (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/util.js:26:23)
+      at Promise.errorAdapter (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/nodeify.js:36:34)
+      at Promise._settlePromiseAt (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:582:21)
+      at Promise._settlePromises (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:700:14)
+      at Async._drainQueue (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:123:16)
+      at Async._drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:133:10)
+      at Immediate.Async.drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:15:14)
+      at processImmediate (internal/timers.js:456:21),
+  level: 'error',
+  message: 'uncaughtException: ReqlOpFailedError: Cannot perform read: primary replica for shard ["", +inf) not available in:\n' +
+    'r.table("blocks").isEmpty()\n' +
+    '^^^^^^^^^^^^^^^^^          \n' +
+    'Error: ReqlOpFailedError: Cannot perform read: primary replica for shard ["", +inf) not available in:\n' +
+    'r.table("blocks").isEmpty()\n' +
+    '^^^^^^^^^^^^^^^^^          \n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/subscriber/index.js:85:12\n' +
+    '    at tryCatcher (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/util.js:26:23)\n' +
+    '    at Promise.errorAdapter (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/nodeify.js:36:34)\n' +
+    '    at Promise._settlePromiseAt (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:582:21)\n' +
+    '    at Promise._settlePromises (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:700:14)\n' +
+    '    at Async._drainQueue (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:123:16)\n' +
+    '    at Async._drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:133:10)\n' +
+    '    at Immediate.Async.drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:15:14)\n' +
+    '    at processImmediate (internal/timers.js:456:21)',
+  stack: 'Error: ReqlOpFailedError: Cannot perform read: primary replica for shard ["", +inf) not available in:\n' +
+    'r.table("blocks").isEmpty()\n' +
+    '^^^^^^^^^^^^^^^^^          \n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/subscriber/index.js:85:12\n' +
+    '    at tryCatcher (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/util.js:26:23)\n' +
+    '    at Promise.errorAdapter (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/nodeify.js:36:34)\n' +
+    '    at Promise._settlePromiseAt (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:582:21)\n' +
+    '    at Promise._settlePromises (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js:700:14)\n' +
+    '    at Async._drainQueue (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:123:16)\n' +
+    '    at Async._drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:133:10)\n' +
+    '    at Immediate.Async.drainQueues (/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js:15:14)\n' +
+    '    at processImmediate (internal/timers.js:456:21)',
+  exception: true,
+  date: 'Fri Jul 31 2020 11:45:39 GMT+0430 (Iran Daylight Time)',
+  process: {
+    pid: 75794,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync',
+    execPath: '/usr/local/bin/node',
+    version: 'v12.16.1',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/index.js'
+    ],
+    memoryUsage: {
+      rss: 49836032,
+      heapTotal: 20598784,
+      heapUsed: 12164656,
+      external: 1119718
+    }
+  },
+  os: {
+    loadavg: [ 3.705078125, 2.94677734375, 2.5751953125 ],
+    uptime: 5482
+  },
+  trace: [
+    {
+      column: 12,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/subscriber/index.js',
+      function: null,
+      line: 85,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/util.js',
+      function: 'tryCatcher',
+      line: 26,
+      method: null,
+      native: false
+    },
+    {
+      column: 34,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/nodeify.js',
+      function: 'Promise.errorAdapter',
+      line: 36,
+      method: 'errorAdapter',
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js',
+      function: 'Promise._settlePromiseAt',
+      line: 582,
+      method: '_settlePromiseAt',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/promise.js',
+      function: 'Promise._settlePromises',
+      line: 700,
+      method: '_settlePromises',
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js',
+      function: 'Async._drainQueue',
+      line: 123,
+      method: '_drainQueue',
+      native: false
+    },
+    {
+      column: 10,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js',
+      function: 'Async._drainQueues',
+      line: 133,
+      method: '_drainQueues',
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/parsa/Desktop/everything/university/BC/louvre/ledger_sync/node_modules/bluebird/js/main/async.js',
+      function: 'Immediate.Async.drainQueues',
+      line: 15,
+      method: 'drainQueues',
+      native: false
+    },
+    {
+      column: 21,
+      file: 'internal/timers.js',
+      function: 'processImmediate',
+      line: 456,
+      method: null,
+      native: false
+    }
+  ],
+  service: 'user-service',
+  timestamp: '2020-07-31T07:15:39.100Z'
+}

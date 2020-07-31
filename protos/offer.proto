@@ -5,6 +5,6 @@ import "painting.proto";
 message Offer {
   required string buyerKey = 2;
   required float offer = 3;
-  required repeated float paintingKey = 4;
+  repeated float paintingKey = 4;
   required bool accepted = 5 [default = false]; 
 }
