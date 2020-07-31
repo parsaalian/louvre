@@ -98,22 +98,6 @@ const chargeAccount = (privKeyStr, amount) => {
     return txnBytes;
 };
 
-const makeOffer = (privKeyStr, paintingKey, offer) => {
-    const signer = getSigner(privKeyStr);
-    const payload = {
-        action: "MakeOfferAction",
-        timestampClient: Number(
-            Math.floor(Date.now() / 1000).toFixed(3),
-        ).toString(),
-        makeOffer: {
-            paintingKey,
-            offer,
-        },
-    };
-    const txnBytes = createTxn(payload, signer);
-    return txnBytes;
-};
-
 const createPainting = (paintingKey, privKeyStr) => {
     const signer = getSigner(privKeyStr);
     const payload = {
@@ -123,6 +107,33 @@ const createPainting = (paintingKey, privKeyStr) => {
         ).toString(),
         createpainting: {
             gene: paintingKey,
+        },
+    };
+    const txnBytes = createTxn(payload, signer);
+    return txnBytes;
+};
+
+const createOffer = (gene, price, buyerKey, privKeyStr) => {
+    const signer = getSigner(privKeyStr);
+    const payload = {
+        action: "CreateOfferAction",
+        createoffer: {
+            gene,
+            price,
+            buyerKey,
+        },
+    };
+    const txnBytes = createTxn(payload, signer);
+    return txnBytes;
+};
+
+const acceptOffer = (gene, buyerKey, privKeyStr) => {
+    const signer = getSigner(privKeyStr);
+    const payload = {
+        action: "AcceptOfferAction",
+        acceptoffer: {
+            gene,
+            buyerKey,
         },
     };
     const txnBytes = createTxn(payload, signer);
@@ -148,4 +159,6 @@ module.exports = {
     chargeAccount,
     createPainting,
     changeForSale,
+    createOffer,
+    acceptOffer,
 };

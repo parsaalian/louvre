@@ -40,6 +40,16 @@ export default function (state = {}, action) {
                 ...state,
                 doc: action.payload,
             };
+        case "USER_MAKE_OFFER":
+            return {
+                ...state,
+                doc: action.payload,
+            };
+        case "USER_ACCEPT_OFFER":
+            return {
+                ...state,
+                doc: action.payload,
+            };
         default:
             return state;
     }

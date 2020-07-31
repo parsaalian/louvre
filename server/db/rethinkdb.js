@@ -136,8 +136,44 @@ const queryOfPaintings = ({ publickey, gene, table }) => {
         });
 };
 
+const queryOfOffers = ({ gene, table }) => {
+    if (!gene) {
+        logger.debug("publickey should not be falsy");
+        const error = new Error("publickey should not be falsy");
+        error.statusCode = 400;
+        error.title = "خطا رخ داد";
+        error.clientMessage = "کلید عمومی معتبر نیست!";
+        error.messageEnglish = "publickey should not be falsy";
+        throw error;
+    }
+    console.log(gene, table);
+    return r
+        .table(table)
+        .run(connection)
+        .then((cur) => {
+            return cur.toArray((err, result) => {
+                console.log("hey", result);
+                if (err) {
+                    logger.error(
+                        `The queryOfOffers' cursor has some errors : ${err}`,
+                    );
+                    return null;
+                } else if (!result || result.length === 0) {
+                    logger.warn("Thers is no result in queryOfOffers");
+                    return null;
+                } else {
+                    return JSON.stringify(result, null, 2);
+                }
+            });
+        })
+        .catch((err) => {
+            logger.error(`queryOfOffers is not responding!: ${err.message}`);
+        });
+};
+
 module.exports = {
     connect,
     queryOfUsers,
     queryOfPaintings,
+    queryOfOffers,
 };

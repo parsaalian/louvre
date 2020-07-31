@@ -29,7 +29,7 @@ message CreatePaintingAction {
 message CreateOfferAction {
 	float price = 1;
 	repeated float gene = 2;
-	string offerer_pubKey = 3;
+	string buyerKey = 3;
 }
 
 message AcceptOfferAction {

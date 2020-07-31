@@ -158,7 +158,10 @@ class Blockchain98Handler extends TransactionHandler {
 
                 const createOffer = (offer, paintingKey, buyerKey) => {
                     return bC98State
-                        .getMessage([paintingKey, sellerKey], "Offer")
+                        .getMessage(
+                            JSON.stringify([paintingKey, buyerKey]),
+                            "Offer",
+                        )
                         .catch((err) => {
                             const message = err.message || err;
                             logger.error(
@@ -169,10 +172,17 @@ class Blockchain98Handler extends TransactionHandler {
                             );
                         })
                         .then((offerValue) => {
-                            if (offerValue) {
+                            console.log(offerValue);
+                            if (
+                                JSON.stringify(offerValue) !==
+                                JSON.stringify({})
+                            ) {
                                 logger.error("Offer Already exists!!");
                                 throw new Error("Offer Already exists!!");
                             }
+
+                            console.log(paintingKey, buyerKey, offer);
+
                             return bC98State.makeOffer(
                                 paintingKey,
                                 buyerKey,
@@ -199,7 +209,7 @@ class Blockchain98Handler extends TransactionHandler {
                                     "you don't own this painting to sell it.",
                                 );
                             }
-                            return bC98State.accepOffer(paintingKey, buyerKey);
+                            return bC98State.acceptOffer(paintingKey, buyerKey);
                         });
                 };
 
@@ -280,16 +290,10 @@ class Blockchain98Handler extends TransactionHandler {
                             );
                         }
 
-                        let {
-                            price,
-                            gene,
-                            offerer_pubKey,
-                        } = update.createoffer;
-
                         actionPromise = createOffer(
-                            price,
-                            gene,
-                            offerer_pubKey,
+                            update.createoffer.price,
+                            update.createoffer.gene,
+                            update.createoffer.buyerKey,
                         );
                         break;
 

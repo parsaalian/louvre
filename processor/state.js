@@ -45,7 +45,7 @@ class BC98State {
                 address = createAccountAddress(key);
                 break;
             case "Offer":
-                address = createOfferAddress(key[0], key[1]);
+                address = createOfferAddress(key);
                 break;
             case "Painting":
                 address = createPaintingAddress(key);
@@ -134,7 +134,7 @@ class BC98State {
                 pathFile = "../protos/account.proto";
                 break;
             case "Offer":
-                address = createOfferAddress(key[0], key[1]);
+                address = createOfferAddress(key);
                 pathFile = "../protos/offer.proto";
                 break;
             case "Painting":
@@ -277,10 +277,12 @@ class BC98State {
             };
             const offerData = this.encodeFunction(
                 [offerPayload],
-                "../protos/payload.proto",
-                /* TODO: offer payload name */ "Offer",
+                "../protos/offer.proto",
+                "Offer",
             );
-            const offerAddress = createOfferAddress(paintingKey, buyerKey);
+            const offerAddress = createOfferAddress(
+                JSON.stringify([paintingKey, buyerKey]),
+            );
             this.addressCache.set(offerAddress, offerData[0]);
 
             return this.context.setState({
@@ -294,13 +296,9 @@ class BC98State {
     }
 
     acceptOffer(paintingKey, buyerKey) {
-        return this.getMessage([paintingKey, buyerKey], "Offer")
+        return this.getMessage(JSON.stringify([paintingKey, buyerKey]), "Offer")
             .then((offerValue) => {
-                if (
-                    !offerValue ||
-                    offerValue.paintingKey !== paintingKey ||
-                    offerValue.buyerKey !== buyerKey
-                ) {
+                if (!offerValue) {
                     logger.error("No offer with these attributes found!");
                     throw new Error("Painting attributes are not valid!");
                 }
@@ -316,58 +314,35 @@ class BC98State {
 
                         return this.getMessage(paintingKey, "Painting")
                             .then((paintingValue) => {
-                                if (paintingValue.owner !== sellerKey) {
-                                    logger.error(
-                                        "This player is not the owner of painting!",
-                                    );
-                                    throw new Error(
-                                        "This player is not the owner of painting!",
-                                    );
-                                }
-
                                 return this.getMessage(
                                     paintingValue.owner,
                                     "Account",
                                 ).then((sellerValue) => {
-                                    const offerPayload = {
-                                        ...offerValue,
-                                        accepted: true,
-                                    };
-
                                     const sellerPayload = {
                                         ...sellerValue,
-                                        balance:
-                                            sellerValue.balance + offerAmount,
+                                        balance: String(
+                                            Number(sellerValue.balance) +
+                                                Number(offerAmount),
+                                        ),
                                     };
 
                                     const buyerPayload = {
                                         ...buyerValue,
-                                        balance:
-                                            buyerValue.balance - offerAmount,
+                                        balance: String(
+                                            Number(buyerValue.balance) -
+                                                Number(offerAmount),
+                                        ),
                                     };
 
                                     const paintingPayload = {
                                         ...paintingValue,
-                                        owner: buyerPayload.pubKey,
+                                        owner: buyerPayload.publickey,
                                     };
-
-                                    const offerData = this.encodeFunction(
-                                        [offerPayload],
-                                        "../protos/offer.proto",
-                                        "Offer",
-                                    );
-                                    const offerAddress = createOfferAddress([
-                                        paintingKey,
-                                        buyerKey,
-                                    ]);
 
                                     const sellerData = this.encodeFunction(
                                         [sellerPayload],
                                         "../protos/account.proto",
                                         "Account",
-                                    );
-                                    const sellerAddress = createAccountAddress(
-                                        paintingValue.owner,
                                     );
 
                                     const buyerData = this.encodeFunction(
@@ -381,17 +356,13 @@ class BC98State {
 
                                     const paintingData = this.encodeFunction(
                                         [paintingPayload],
-                                        "../protos/account.proto",
-                                        "Account",
+                                        "../protos/painting.proto",
+                                        "Painting",
                                     );
                                     const paintingAddress = createPaintingAddress(
                                         paintingKey,
                                     );
 
-                                    this.addressCache.set(
-                                        offerAddress,
-                                        offerData[0],
-                                    );
                                     this.addressCache.set(
                                         sellerAddress,
                                         sellerData[0],
@@ -406,12 +377,11 @@ class BC98State {
                                     );
 
                                     logger.info(
-                                        `Painting ${paintingKey} is changing ownership from player ${sellerKey} to ${buyerKey}`,
+                                        `Painting ${paintingKey} is changing ownership from player ${paintingValue.owner} to ${buyerKey}`,
                                     );
 
                                     return this.context
                                         .setState({
-                                            [offerAddress]: offerData[0],
                                             [sellerAddress]: sellerData[0],
                                             [buyerAddress]: buyerData[0],
                                             [paintingAddress]: paintingData[0],

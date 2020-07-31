@@ -131,6 +131,7 @@ class ChargeAccount extends Component {
                         style={{ padding: "2rem", textAlign: "center" }}
                     >
                         <img
+                            alt={`generated from (${random1}, ${random2}, ${random3})`}
                             src={
                                 !changed
                                     ? "/images/createPainting.png"

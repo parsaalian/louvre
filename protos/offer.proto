@@ -1,10 +1,8 @@
 syntax = "proto3";
-import "account.proto";
-import "painting.proto";
 
 message Offer {
-  required string buyerKey = 2;
-  required float offer = 3;
+  string buyerKey = 2;
+  float offer = 3;
   repeated float paintingKey = 4;
-  required bool accepted = 5 [default = false]; 
+  bool accepted = 5 [default = false]; 
 }

@@ -45,7 +45,6 @@ router.get(
 
 router.get("/getPainting/:id", auth.isAuthorized, (req, res, next) => {
     const gene = req.params.id.split("-").map(Number);
-    console.log(gene);
     rethink
         .queryOfPaintings({ gene, table: process.env.PAINTINGS_TABLE })
         .then((result) => {

@@ -29,12 +29,10 @@
     "Offer": {
       "fields": {
         "buyerKey": {
-          "rule": "required",
           "type": "string",
           "id": 2
         },
         "offer": {
-          "rule": "required",
           "type": "float",
           "id": 3
         },
@@ -44,7 +42,6 @@
           "id": 4
         },
         "accepted": {
-          "rule": "required",
           "type": "bool",
           "id": 5,
           "options": {
@@ -163,7 +160,7 @@
           "type": "float",
           "id": 2
         },
-        "offererPubKey": {
+        "buyerKey": {
           "type": "string",
           "id": 3
         }

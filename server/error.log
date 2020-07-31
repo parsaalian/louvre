@@ -2031,3 +2031,135 @@
   level: 'error',
   timestamp: '2020-07-31T14:33:53.722Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T15:52:29.662Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T15:52:40.459Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T15:52:44.081Z'
+}
+{
+  message: 'The save action on User Collection with document  has some errors: false: email: Path `email` is required., password: Path `password` is required.',
+  level: 'error',
+  timestamp: '2020-07-31T15:53:21.043Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T15:53:30.496Z'
+}
+{
+  message: 'Batch 689b222acc2bd1e7dcd2b52faf8f9512dfa36df4a1697a098df72b417acc859d78892f5c8bcb8b49d8c5c2f304b8e9192fb5e1be1f79ceac90f118a3efbf8014 is INVALID, with message: sellerKey is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T16:13:23.574Z'
+}
+{
+  message: "Batch 2d9491dc5b8a570d7e4d99c1939a63492638040213c23c8fe8cbe1753d459fae3217758092c7b55847029a8304b9e06a07e89a4f3ef091bb27f334a08f38b8fb is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:17:13.944Z'
+}
+{
+  message: "Batch ba1d4ad62e7de9c1caba3b2ba9d2ccdf25837b55b2b619066c077f41b9b81ea53f14bee8bebf47b2cc8e8bc052f9f266e713288b3849793eb7b17eb3b2bdaad0 is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:20:58.768Z'
+}
+{
+  message: "Batch fccfc6ba6e9aa45c2820dac71a39f53b87542a6f9b8d90d133afad083f234d5d60693c8695beacb40f0ad3c35a1a0e98d7c4c492faed068468a68247d92591e5 is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:25:34.758Z'
+}
+{
+  message: "Batch 5cea5f7bdfcee6e7bb854c2e9d3ffb6d3e5d9530045c4875040e6faf457da93e3e4dd5a3e40a8ad0e94c9f97fc160ff707a347c661f8c9d83c3beaad8fc82853 is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:28:51.282Z'
+}
+{
+  message: "Batch d2bfabfbf9ea1290e444d67b4b65626a25b8fc33924e6b85f2b7c97967b3d3b577638e186776cc7a4d4fbb4f17b94a746ed764475ff8a442f8f9205154db9d41 is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:36:29.068Z'
+}
+{
+  message: "Batch fa05fff6bbdc343969c647044da19a558e5e37ded5ee1e3f07b53cea597e34f2730214371013c64a230d17d67999d9c20e21f4107f3b074ca11d4081b42d184e is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T16:55:15.988Z'
+}
+{
+  message: "Batch 6196e4578d27e460af75e9f2c5c5bcf4d95aff02a673f7aea796e4bb3e2de8965fb0481d3eb6d0712f97194b5596bd805ce3b401918826c7801b7f2a098d8831 is INVALID, with message: makeOffer in blockchain is not responding: Error: loadMessage has some problems: Error: getState in blockchain is not responding!: Error: ../protos/offer.proto is not loading!: ProtocolError: missing required 'buyerKey'",
+  level: 'error',
+  timestamp: '2020-07-31T17:00:42.281Z'
+}
+{
+  message: 'Batch 3b38ce04d3c03d26c793f64351a6b332b324cc59911d9a7caa67a90e4207326d335f1fe7d13e99a03a30024079003a87837ae89681f5696072fa134e50c8b76e is INVALID, with message: Offer Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T17:16:43.126Z'
+}
+{
+  message: 'Batch 1fa1aa98438b7ac370b9e8b700adb886564d26ac55cd6d4a7a55fadad7839fa243d7311d506a9b8f761284d70c787d16034461a21442d8b58539c1ee45108c21 is INVALID, with message: Offer Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T17:25:14.058Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T17:36:42.384Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T17:36:57.039Z'
+}
+{
+  message: 'Batch 51a380ed35ce607c9ddb484ea9c304e2843f316a8185792ac99417eb6fb213ab0d496952020979cc011db70bd091c9c0d6872301ef01208561b04fb36daa3289 is INVALID, with message: Offer Already exists!!',
+  level: 'error',
+  timestamp: '2020-07-31T17:47:49.115Z'
+}
+{
+  message: 'ReqlDriverCompileError: Expected 1 argument (not including options) but found 0.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Function.filter (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:61:15)\n' +
+    '    at Object.queryOfOffers (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:152:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/offer.js:20:10\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:354:14)\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:365:14)\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:410:3)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)',
+  level: 'error',
+  timestamp: '2020-07-31T17:49:53.593Z'
+}
+{
+  message: 'Batch 8beea61cc0489fbc2857054ffb5f2071f7c50ae4ca6143332feaa1e4a41acc300153deaf4f3c62649bedbfb3a599125d1baa027d450f6c4e6bdc87bf00b7d96f is INVALID, with message: bC98State.accepOffer is not a function',
+  level: 'error',
+  timestamp: '2020-07-31T18:39:44.790Z'
+}
+{
+  message: 'Batch c07c60645f390ab0089a25f827461a3bb5ef97c942c9df490db0198b012cceca7efa34d7ae608ce5c4a502e0c90fb04ca8b1632ff9942c963a84423a7363f767 is UNKNOWN, with message: ',
+  level: 'error',
+  timestamp: '2020-07-31T18:43:27.390Z'
+}
+{
+  message: 'Batch 54342976f6af2bd1a2e06e45312ff6a2f890ddb2d48e0c90f355c109d9f0826a467bf53bf5e41d4855af1bf5044320c800e54db347521d73174a9a2989058a72 is INVALID, with message: getOffer in blockchain is not responding: ReferenceError: sellerKey is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T18:43:35.912Z'
+}

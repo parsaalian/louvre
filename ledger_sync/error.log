@@ -1,0 +1,132 @@
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T17:21:47.750Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T17:24:29.801Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T17:35:24.362Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T17:38:00.899Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:02:52.381Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:03:57.171Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:05:29.109Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:06:17.473Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:15.396Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:15.399Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:15.400Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:15.400Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:19.271Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:19.274Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:19.275Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:19.276Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:51.824Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:51.827Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:51.828Z'
+}
+{
+  message: 'entryAdder() has some errors:  addState is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:07:51.829Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:08:08.169Z'
+}
+{
+  message: 'entryAdder() has some errors:  Argument 1 to getAll may not be `undefined`.',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T18:08:55.254Z'
+}

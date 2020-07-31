@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { Component } from "react";
-import { Grid, Col, Row } from "rsuite";
+import { Grid, Col } from "rsuite";
 
 class Paintings extends Component {
     constructor(props) {
@@ -65,6 +65,7 @@ class Paintings extends Component {
                                 href={`/painting/${gene[0]}-${gene[1]}-${gene[2]}`}
                             >
                                 <img
+                                    alt={`generated from (${gene[0]}, ${gene[1]}, ${gene[2]})`}
                                     src={`/images/generated/${Number(
                                         Number(
                                             ((gene[0] + gene[1] + gene[2]) *
