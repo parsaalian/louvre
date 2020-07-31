@@ -17,7 +17,9 @@ const Layout = ({ children }) => {
                         >
                             نقاشی جدید
                         </Nav.Item>
-                        <Nav.Item icon={<Icon icon="image" />}>آثار</Nav.Item>
+                        <Nav.Item icon={<Icon icon="image" />} href="/gallery">
+                            آثار
+                        </Nav.Item>
                         <Nav.Item
                             icon={<Icon icon="money" />}
                             href="/chargeAccount"

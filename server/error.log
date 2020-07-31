@@ -1964,3 +1964,70 @@
   level: 'error',
   timestamp: '2020-07-31T14:02:38.940Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:21:06.210Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:28:37.528Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:29:10.582Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:29:17.766Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:29:23.669Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:29:51.002Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:30:51.105Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T14:31:08.357Z'
+}
+{
+  message: 'ReqlDriverCompileError: Argument 1 to contains may not be `undefined`.\n' +
+    '    at ReqlDriverCompileError.ReqlError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:23:13)\n' +
+    '    at ReqlDriverCompileError.ReqlCompileError [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:35:51)\n' +
+    '    at new ReqlDriverCompileError (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/errors.js:46:57)\n' +
+    '    at Contains.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1536:17)\n' +
+    '    at Contains.RDBOp [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:1540:8)\n' +
+    '    at Contains [as constructor] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:2449:43)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:499:43\n' +
+    '    at Function.RDBVal.contains (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:501:7)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:112:24\n' +
+    '    at new Func (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:3644:17)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:4235:12)\n' +
+    '    at Function.expr (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:43:16)\n' +
+    '    at funcWrap (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:34:19)\n' +
+    '    at Function.<anonymous> (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/ast.js:657:35)\n' +
+    '    at Function.filter (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/rethinkdb/util.js:64:16)\n' +
+    '    at Object.queryOfPaintings (/Users/parsa/Desktop/everything/university/BC/louvre/server/db/rethinkdb.js:109:30)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:22:14\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)',
+  level: 'error',
+  timestamp: '2020-07-31T14:33:53.722Z'
+}

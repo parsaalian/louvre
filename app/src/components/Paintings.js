@@ -13,10 +13,14 @@ class Paintings extends Component {
 
     componentDidMount() {
         const { user } = this.props;
+        const prefix =
+            this.props.match && this.props.match.url === "/gallery" ? "!" : "";
         if (!!user.login.pubKey) {
             this.setState({ userLoading: true });
             axios
-                .get(`/paintings/getUserPaintings/${user.login.pubKey}`)
+                .get(
+                    `/paintings/getUserPaintings/${prefix}${user.login.pubKey}`,
+                )
                 .then((response) => {
                     this.setState({ userGallery: response.data.data });
                     this.setState({ userLoading: false });

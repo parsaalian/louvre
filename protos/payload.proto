@@ -9,7 +9,7 @@ message PGPayload {
     CreatePaintingAction createpainting = 202; // DONE
     CreateOfferAction createoffer = 203;
     AcceptOfferAction acceptoffer = 204;
-    MakeOfferableAction makeofferable = 205;
+    MakeOfferableAction makeofferable = 205; // DONE
     }
 }
 

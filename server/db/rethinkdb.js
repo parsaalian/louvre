@@ -1,3 +1,4 @@
+const _ = require("lodash");
 const r = require("rethinkdb");
 const logger = require("../api/logger");
 
@@ -104,7 +105,14 @@ const queryOfPaintings = ({ publickey, gene, table }) => {
         throw error;
     }
     const req = publickey
-        ? r.table(table).filter({ owner: publickey })
+        ? publickey[0] === "!"
+            ? r.table(table).filter((doc) =>
+                  r
+                      .expr([_.tail(publickey).join("")])
+                      .contains(doc("owner"))
+                      .not(),
+              )
+            : r.table(table).filter({ owner: publickey })
         : r.table(table).getAll(gene, { index: "gene" });
     return req
         .run(connection)
