@@ -26140,3 +26140,1641 @@
   service: 'user-service',
   timestamp: '2020-07-31T18:51:27.370Z'
 }
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:41.641Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:42.266Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:43.279Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:44.283Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:45.287Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:46.293Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:47.308Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:00:48.310Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:56.242Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:56.242Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:56.495Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:56.496Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:57.502Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:57.503Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:58.506Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:58.506Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:59.513Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:03:59.513Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:00.524Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:00.525Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:01.535Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:01.535Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:02.539Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:02.539Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:03.540Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:03.541Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:04.544Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:04.544Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:05.554Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:05.554Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.380Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.380Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.564Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.564Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.584Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:06.584Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:07.566Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:07.566Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:07.585Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:07.585Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:08.571Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:08.571Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:08.591Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:08.592Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:09.572Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:09.573Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:09.590Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:09.591Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:10.591Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:10.591Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:10.637Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:10.638Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:11.587Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:11.588Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:11.606Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:11.607Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:12.586Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:12.586Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:12.604Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:12.604Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:13.603Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:13.604Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:13.622Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:13.623Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:14.611Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:14.611Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:14.629Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:14.629Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:15.621Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:15.621Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:15.646Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:15.647Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:16.633Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:16.633Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:16.650Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:16.650Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:17.642Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:17.642Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:17.657Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:17.657Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:18.648Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:18.648Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:18.666Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:18.666Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:19.655Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:19.656Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:19.679Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:19.680Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:20.664Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:20.664Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:20.683Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:20.684Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:21.669Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:21.670Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:21.690Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:21.690Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:22.679Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:22.680Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:22.699Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:22.700Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:23.686Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:23.687Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:23.707Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:23.708Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:24.684Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:24.685Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:24.701Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:24.701Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:25.695Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:25.696Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:25.713Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:25.713Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:26.702Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:26.702Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:26.720Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:26.721Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:27.711Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:27.712Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:27.728Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:27.728Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:28.730Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:28.730Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:28.757Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:28.758Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:29.726Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:29.726Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:29.744Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:29.744Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:30.735Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:30.735Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:30.756Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:30.757Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:31.738Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:31.739Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:31.756Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:31.756Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:32.750Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:32.751Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:32.773Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:32.774Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:33.762Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:33.762Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:33.784Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:33.784Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:34.764Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:34.764Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:34.784Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:34.784Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:35.772Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:35.772Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:35.790Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:35.790Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:36.785Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:36.786Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:36.804Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:36.804Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:37.786Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:37.786Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:37.804Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:37.804Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:38.789Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:38.790Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:38.809Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:38.810Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:39.793Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:39.794Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:39.810Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:39.810Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:40.803Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:40.803Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:40.825Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:40.825Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:41.818Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:41.819Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:41.842Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:41.842Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:42.823Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:42.823Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:42.841Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:42.841Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:43.837Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:43.837Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:43.854Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:43.854Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:44.839Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:44.840Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:44.862Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:44.863Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:45.852Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:45.853Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:45.881Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:45.881Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:46.855Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:46.856Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:46.929Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:46.930Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:47.867Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:47.868Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:47.973Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:47.974Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:48.883Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:48.884Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:48.910Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:48.910Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:49.882Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:49.883Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:49.904Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:49.904Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:50.889Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:50.889Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:50.914Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:50.914Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:51.903Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:51.903Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:51.931Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:51.931Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:52.903Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:52.903Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:52.921Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:52.921Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:53.918Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:53.918Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:53.946Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:53.947Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:54.924Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:54.925Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:54.952Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:54.952Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:55.933Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:55.934Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:55.960Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:55.961Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:56.934Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:56.935Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:56.951Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:56.952Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:57.944Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:57.944Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:57.968Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:57.968Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:58.947Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:58.948Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:58.968Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:58.968Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:59.946Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:59.946Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:59.968Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:04:59.968Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:00.952Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:00.953Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:00.969Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:00.969Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:01.965Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:01.965Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:01.994Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:01.994Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:02.960Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:02.960Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:02.976Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:02.976Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:03.984Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:03.985Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:04.022Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:04.025Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:04.988Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:04.988Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:05.007Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:05.008Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:05.993Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:05.993Z'
+}
+{
+  message: 'getOffer in blockchain is not responding: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:06.012Z'
+}
+{
+  message: 'Something bad happend! getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:06.012Z'
+}
+{
+  message: "Something bad happend! you don't own this painting to sell it.",
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T19:05:07.341Z'
+}

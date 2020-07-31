@@ -2163,3 +2163,53 @@
   level: 'error',
   timestamp: '2020-07-31T18:43:35.912Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T18:57:27.526Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T18:57:42.785Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T18:58:11.012Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T18:58:15.871Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T18:58:28.284Z'
+}
+{
+  message: 'Batch c91ca6c625e6af2c5b2cb435f2478778705bc07ee231df63e6db01b2ea23706c3d510009c12f56bea658ae95e392a4b21af9031e8d98f8321ac7a752fa1d9015 is UNKNOWN, with message: ',
+  level: 'error',
+  timestamp: '2020-07-31T18:59:11.638Z'
+}
+{
+  message: 'queryOfPaintings is not responding!: Illegal non-finite number `NaN`.',
+  level: 'error',
+  timestamp: '2020-07-31T19:00:25.878Z'
+}
+{
+  message: "Batch f1417fc7ef5a9293b803f916ca5a02390872f7a1015a696b236288095840483e2300b6af439766c26579afc4668fff85b243bca34c7e9a990881b238d5a2ac8d is INVALID, with message: you don't own this painting to sell it.",
+  level: 'error',
+  timestamp: '2020-07-31T19:00:41.646Z'
+}
+{
+  message: 'Batch 54d40d7f81a2b3ecf50c15139111a72391b4867209b577a12be86af5a7d1566d74eb9f9aa5ad86cc3e9f1192d6f2aca6e24f9316599a683875f7e07c80fcba94 is INVALID, with message: getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T19:03:56.245Z'
+}
+{
+  message: 'Batch 1dc8cbcc991e0db056cfed30dc0f33cf44b19fcea5e84e11956851e8ed46cba56fdec631cc8b5da4c2d16def5045e134e2a04cb90d889dc18bde2a3a4867a8f2 is INVALID, with message: getOffer in blockchain is not responding: ReferenceError: sellerAddress is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T19:04:06.383Z'
+}

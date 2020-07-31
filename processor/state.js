@@ -345,6 +345,10 @@ class BC98State {
                                         "Account",
                                     );
 
+                                    const sellerAddress = createAccountAddress(
+                                        paintingValue.owner,
+                                    );
+
                                     const buyerData = this.encodeFunction(
                                         [buyerPayload],
                                         "../protos/account.proto",

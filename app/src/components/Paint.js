@@ -39,13 +39,16 @@ class Paint extends Component {
                 .then((response) => {
                     const painting = response.data.data[0];
                     this.setState({ painting });
-                });
-            axios
-                .get(`/offers/getOffers/${match.params.id}`)
-                .then((response) => {
-                    const offers = response.data.data;
-                    console.log(offers);
-                    this.setState({ offers, loading: false });
+                    axios
+                        .get(`/offers/getOffers/${match.params.id}`)
+                        .then((response) => {
+                            const offers = response.data.data.filter(
+                                (d) =>
+                                    JSON.stringify(d.paintingKey) ===
+                                    JSON.stringify(painting.gene),
+                            );
+                            this.setState({ offers, loading: false });
+                        });
                 });
         }
     }
