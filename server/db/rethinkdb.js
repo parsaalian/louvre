@@ -93,9 +93,8 @@ const queryOfUsers = ({ publickey, table }) => {
         });
 };
 
-const queryOfPaintings = ({ publickey, table }) => {
-    console.log(publickey, table);
-    if (!publickey) {
+const queryOfPaintings = ({ publickey, gene, table }) => {
+    if (!publickey && !gene) {
         logger.debug("publickey should not be falsy");
         const error = new Error("publickey should not be falsy");
         error.statusCode = 400;
@@ -104,9 +103,10 @@ const queryOfPaintings = ({ publickey, table }) => {
         error.messageEnglish = "publickey should not be falsy";
         throw error;
     }
-    return r
-        .table(table)
-        .filter({ owner: publickey })
+    const req = publickey
+        ? r.table(table).filter({ owner: publickey })
+        : r.table(table).getAll(gene, { index: "gene" });
+    return req
         .run(connection)
         .then((cur) => {
             return cur.toArray((err, result) => {

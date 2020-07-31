@@ -1840,3 +1840,2871 @@
   service: 'user-service',
   timestamp: '2020-07-31T08:30:14.059Z'
 }
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:19.156Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:19.245Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:20.248Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:21.257Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:22.261Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:23.272Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:24.278Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:25.285Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:26.287Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:27.297Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:28.302Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:29.307Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:30.315Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:31.326Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:32.330Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:33.335Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:34.339Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:35.346Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:36.351Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:37.369Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:38.380Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:39.387Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:40.396Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:41.415Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:42.427Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:43.439Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:44.445Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:45.450Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:46.461Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:47.470Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:48.483Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:49.487Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:50.490Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:51.494Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:52.507Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:53.518Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:54.521Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:55.535Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:56.540Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:57.548Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:58.558Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:44:59.562Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:00.567Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:01.570Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:02.575Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:03.582Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:04.589Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:05.601Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:06.608Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:07.621Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:08.625Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:09.630Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:10.636Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:11.639Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:12.643Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:13.649Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:14.664Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:15.677Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:16.680Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:17.692Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:18.701Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:19.715Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:20.729Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:21.743Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:22.748Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:23.763Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:24.768Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:25.773Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:26.778Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:27.781Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:28.785Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:29.801Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:30.811Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:31.816Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:32.829Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:33.843Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:34.847Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:35.860Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:36.865Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:37.868Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:38.872Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:39.875Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:40.879Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:41.891Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:42.901Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:43.909Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:44.911Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:45.915Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:46.918Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:47.931Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:48.942Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:49.944Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:50.954Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:51.962Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:52.965Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:53.967Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:54.975Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:55.979Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:56.984Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:57.994Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:45:59.001Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:00.012Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:01.015Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:02.025Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:03.029Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:04.043Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:05.055Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:06.058Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:07.062Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:08.070Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:09.077Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:10.083Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:11.088Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:12.096Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:13.110Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:14.126Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:15.130Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:16.138Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:17.141Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:18.145Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:19.158Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:20.163Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:21.167Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:22.176Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:23.189Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:24.194Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:25.207Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:26.212Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:27.220Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:28.227Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:29.233Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:30.244Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:31.250Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:32.265Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:33.270Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:34.274Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:35.287Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:36.293Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:37.309Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:38.313Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:39.324Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:40.329Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:41.340Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:42.345Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:43.359Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:44.364Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:45.377Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:46.380Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:47.385Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:48.392Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:49.396Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:50.409Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:51.419Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:52.425Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:53.431Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:54.446Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:55.451Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:56.454Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:57.459Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:58.475Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:46:59.486Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:00.490Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:01.495Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:02.501Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:03.511Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:04.518Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:05.522Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:06.534Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:07.546Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:08.552Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:09.559Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:10.564Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:11.576Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:12.584Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:13.591Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:14.603Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:15.613Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:16.621Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:17.625Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:18.636Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:19.647Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:20.652Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:21.660Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:22.672Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:23.686Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:24.690Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:25.699Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:26.704Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:27.708Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:28.712Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:29.715Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:30.731Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:31.735Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:32.753Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:33.762Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:34.766Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:35.771Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:36.778Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:37.787Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:38.790Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:39.800Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:40.803Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:41.808Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:42.823Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:43.830Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:44.833Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:45.835Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:46.848Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:47.853Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:48.868Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:49.878Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:50.882Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:51.896Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:52.901Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:53.907Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:54.911Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:55.924Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:56.931Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:57.933Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:58.949Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:47:59.952Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:00.955Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:01.958Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:02.968Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:03.970Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:04.978Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:05.983Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:06.988Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:07.993Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:09.005Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:10.008Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:11.017Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:12.023Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:13.032Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:14.044Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:15.050Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:16.064Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:17.075Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:18.080Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:19.086Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:20.088Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:21.093Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:22.095Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:23.106Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:24.120Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:25.135Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:26.140Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:27.143Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:28.148Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:29.152Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:30.159Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:31.169Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:32.175Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:33.180Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:34.188Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:35.192Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:36.203Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:37.216Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:38.221Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:39.233Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:40.246Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:41.252Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:42.257Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:43.263Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:44.274Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:45.279Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:46.286Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:47.294Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:48.309Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:49.316Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:50.328Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:51.335Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:52.338Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:53.341Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:54.346Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:55.355Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:56.361Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:57.374Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:58.378Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:48:59.385Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:49:00.391Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:49:01.397Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:49:02.403Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:49:03.408Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:49:04.414Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:56:56.256Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:56:56.726Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:56:57.740Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:56:58.745Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:56:59.749Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:00.754Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:01.762Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:02.767Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:03.776Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:04.784Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:05.798Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:06.804Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:07.810Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:08.817Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:09.819Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:10.828Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:11.833Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:12.844Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:13.855Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:14.860Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:15.864Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:16.869Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:17.872Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:18.879Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:19.882Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:20.889Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:21.906Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:22.914Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:23.918Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:24.930Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:25.938Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:26.946Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:27.961Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:28.966Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:29.972Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:30.979Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:31.985Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:32.992Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:34.002Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:35.004Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:36.012Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:37.016Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:38.021Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:39.025Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:40.028Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:41.031Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:42.038Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:43.053Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:44.063Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:45.067Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:46.077Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T13:57:47.083Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:00:56.343Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:00:57.220Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:00:58.223Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:00:59.228Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:00.233Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:01.242Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:02.247Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:03.264Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:04.267Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:05.277Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:06.288Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:07.293Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:08.310Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:09.315Z'
+}
+{
+  message: 'Something bad happend! payload is not defined',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:10.323Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:11.349Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:11.351Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:11.352Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:12.345Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:12.346Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:12.347Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:13.350Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:13.350Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:13.351Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:14.351Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:14.351Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:14.352Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:15.361Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:15.361Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:15.361Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.373Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.373Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.374Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.614Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.614Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:16.614Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.381Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.382Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.382Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.396Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.396Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:17.396Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.385Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.386Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.386Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.396Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.397Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:18.397Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.392Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.393Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.393Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.402Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.403Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:19.403Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.401Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.402Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.402Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.415Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.416Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:20.416Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.415Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.415Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.416Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.433Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.433Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:21.434Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.418Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.420Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.420Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.435Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.435Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:22.436Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.440Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.441Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.442Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.472Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.473Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:01:23.474Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:38.928Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:38.931Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:38.932Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:39.264Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:39.265Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:39.265Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:40.270Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:40.270Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:40.270Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:41.273Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:41.274Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:41.274Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:42.278Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:42.278Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:42.279Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:43.287Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:43.288Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:43.288Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:44.294Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:44.294Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:44.294Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:45.301Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:45.301Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:45.302Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:46.311Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:46.311Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:46.311Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:47.318Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:47.318Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:47.318Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:48.321Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:48.321Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:02:48.322Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.406Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.408Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.408Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.425Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.425Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:25.425Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:26.428Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:26.428Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:26.428Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:27.433Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:27.433Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:27.433Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.883Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.885Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.885Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.901Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.901Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:48.902Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:49.904Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:49.905Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:04:49.905Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.090Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.092Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.093Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.107Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.108Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:01.108Z'
+}
+{
+  message: 'No such painting exists in!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:02.119Z'
+}
+{
+  message: 'makeOfferable in blockchain is not responding!: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:02.119Z'
+}
+{
+  message: 'Something bad happend! makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2020-07-31T14:05:02.119Z'
+}

@@ -129,11 +129,23 @@ const createPainting = (paintingKey, privKeyStr) => {
     return txnBytes;
 };
 
+const changeForSale = (paintingKey, privKeyStr) => {
+    const signer = getSigner(privKeyStr);
+    const payload = {
+        action: "MakeOfferableAction",
+        makeofferable: {
+            gene: paintingKey,
+        },
+    };
+    const txnBytes = createTxn(payload, signer);
+    return txnBytes;
+};
+
 module.exports = {
     submit,
     hash,
     createAccount,
     chargeAccount,
     createPainting,
-    makeOffer,
+    changeForSale,
 };

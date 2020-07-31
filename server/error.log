@@ -1862,3 +1862,105 @@
   level: 'error',
   timestamp: '2020-07-31T09:09:16.311Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T12:45:59.462Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T12:46:05.732Z'
+}
+{
+  message: "TypeError: Cannot read property 'split' of undefined\n" +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:47:25\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:354:14)\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:365:14)\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:410:3)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:284:7\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express-session/index.js:495:7\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/connect-mongo/src/index.js:10:25',
+  level: 'error',
+  timestamp: '2020-07-31T13:07:22.403Z'
+}
+{
+  message: 'Batch 7c418f30e8638796e25bfb7f496e79d575bb068eec28cb19539ae9255e7b5df332857b75606504dea4c266f1f85ad6bf50e4dc19bf818c8fd3f5e22dd4348823 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T13:44:19.168Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:07.972Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:08.078Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:14.300Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:14.389Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:18.009Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:22.812Z'
+}
+{
+  message: 'The save action on User Collection with document a@a.a has some errors: false: password: Path `password` is required.',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:39.088Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:43.255Z'
+}
+{
+  message: 'Batch 11f70901aa1c256fc13cddeaf12e2a5d0ec3ed70682021dac80441daece793fb2f0af434c8ab2629b7e6d6b1ac6adcd142d62fbea9889f4fe42569d4b80bd792 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T13:56:56.261Z'
+}
+{
+  message: 'Batch 2ea8dc2bcea90084d296ca716d08cde441236fba932fda4f0981ed303a8d95fb1dac7eed2da94e55214d77949916fe6a0cb066e7f590e51e0c73d4c6aebd9272 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T14:00:56.354Z'
+}
+{
+  message: 'Batch 1e655d792569dab57cf23500996e904a23bd0118becf85618072f6ab93b3694123f8abf2f0dcc3f83b4acc7743dd921498b66bc6b96b9ea1b1e49eeca238b7c2 is INVALID, with message: makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  timestamp: '2020-07-31T14:01:16.617Z'
+}
+{
+  message: 'Batch a3ef350751f764e991dfcb9ccf522d4cb421d68c318dc3a1b86758824141e042481b7df103676a0ab547f187442e0c5790070a326f925b881b2b9eeb42ca7ecc is INVALID, with message: makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  timestamp: '2020-07-31T14:02:38.940Z'
+}

@@ -10,7 +10,7 @@ import ChargeAccount from "./components/transactions/chargeAccount";
 import CreatePainting from "./components/transactions/createPainting";
 import Register from "./containers/admin/register";
 import ChangePassword from "./components/Admin/changePassword";
-import Gallery from "./components/Gallery";
+import Paint from "./components/Paint";
 
 const Routes = () => {
     return (
@@ -52,6 +52,11 @@ const Routes = () => {
                     path="/createPainting"
                     exact
                     component={AuthenticationCheck(CreatePainting, true)}
+                />
+                <Route
+                    path="/painting/:id"
+                    exact
+                    component={AuthenticationCheck(Paint, true)}
                 />
             </Switch>
         </Layout>

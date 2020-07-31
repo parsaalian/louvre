@@ -284,7 +284,7 @@ class Blockchain98Handler extends TransactionHandler {
                             price,
                             gene,
                             offerer_pubKey,
-                        } = payload.createoffer;
+                        } = update.createoffer;
 
                         actionPromise = createOffer(
                             price,
@@ -304,8 +304,8 @@ class Blockchain98Handler extends TransactionHandler {
                         }
 
                         actionPromise = acceptOffer(
-                            payload.acceptoffer.gene,
-                            payload.acceptoffer.buyerKey,
+                            update.acceptoffer.gene,
+                            update.acceptoffer.buyerKey,
                         );
                         break;
 
@@ -320,7 +320,7 @@ class Blockchain98Handler extends TransactionHandler {
                         }
 
                         actionPromise = makeOfferable(
-                            payload.makeofferable.gene,
+                            update.makeofferable.gene,
                         );
                         break;
 

@@ -242,7 +242,7 @@ class BC98State {
             const paintingPayload = {
                 owner: ownerKey,
                 gene: paintingKey,
-                for_sale: false,
+                forSale: false,
             };
             const paintingData = this.encodeFunction(
                 [paintingPayload],
@@ -443,7 +443,7 @@ class BC98State {
     makeOfferable(paintingKey) {
         return this.getMessage(paintingKey, "Painting")
             .then((paintingValue) => {
-                if (!paintingKey || paintingKey.gene !== paintingKey) {
+                if (!paintingKey) {
                     logger.error("No such painting exists in!");
                     throw new Error("The gene is not valid!");
                 }
@@ -451,7 +451,7 @@ class BC98State {
                 const payloadPainting = {
                     owner: paintingValue.owner,
                     gene: paintingValue.gene,
-                    for_sale: true,
+                    forSale: true,
                 };
 
                 const dataPainting = this.encodeFunction(
@@ -466,9 +466,9 @@ class BC98State {
 
                 this.addressCache.set(addressPainting, dataPainting[0]);
 
-                let entries = {
+                return this.context.setState({
                     [addressPainting]: dataPainting[0],
-                };
+                });
             })
             .catch((err) => {
                 let message = err.message ? err.message : err;

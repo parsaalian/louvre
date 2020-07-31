@@ -21,6 +21,7 @@ const User = (props) => {
     };
     const createKeys = () => {
         const keys = getKeyPair();
+        console.log(keys);
         let transaction = createAccount(keys[1]);
         transaction = Buffer.from(transaction).toString("base64");
         submit({ txn: transaction }, true).then((res) => {
@@ -36,6 +37,7 @@ const User = (props) => {
             setUserLoading(true);
             axios.get(`/user/getUserInfo`).then((response) => {
                 setUserInfo(response.data.data);
+                setUserLoading(false);
             });
         }
     }, [props.user.login.pubKey]);

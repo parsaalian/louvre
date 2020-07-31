@@ -15,10 +15,12 @@ class Paintings extends Component {
         const { user } = this.props;
         if (!!user.login.pubKey) {
             this.setState({ userLoading: true });
-            axios.get("/paintings/getUserPaintings").then((response) => {
-                this.setState({ userGallery: response.data.data });
-                this.setState({ userLoading: false });
-            });
+            axios
+                .get(`/paintings/getUserPaintings/${user.login.pubKey}`)
+                .then((response) => {
+                    this.setState({ userGallery: response.data.data });
+                    this.setState({ userLoading: false });
+                });
         }
     }
 
@@ -46,6 +48,7 @@ class Paintings extends Component {
                     const { gene } = painting;
                     return (
                         <Col
+                            key={JSON.stringify(gene)}
                             sm={22}
                             md={8}
                             lg={8}
@@ -54,15 +57,19 @@ class Paintings extends Component {
                                 marginTop: "2rem",
                             }}
                         >
-                            <img
-                                src={`/images/generated/${Number(
-                                    Number(
-                                        ((gene[0] + gene[1] + gene[2]) *
-                                            214.99) /
-                                            3,
-                                    ).toFixed(0),
-                                )}.png`}
-                            />
+                            <a
+                                href={`/painting/${gene[0]}-${gene[1]}-${gene[2]}`}
+                            >
+                                <img
+                                    src={`/images/generated/${Number(
+                                        Number(
+                                            ((gene[0] + gene[1] + gene[2]) *
+                                                214.99) /
+                                                3,
+                                        ).toFixed(0),
+                                    )}.png`}
+                                />
+                            </a>
                         </Col>
                     );
                 })}

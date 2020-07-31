@@ -20512,3 +20512,3620 @@
   message: 'Received message of unknown type:',
   timestamp: '2020-07-31T11:11:07.102Z'
 }
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:11:17.101Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:11:27.104Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:11:37.099Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:11:47.095Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:11:57.097Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:12:07.091Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T11:12:17.097Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T12:43:26.315Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T12:43:26.373Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T12:43:26.388Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 20.410 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:43:46.338Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.514 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:12.225Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.457 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:12.898Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.079 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:19.854Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.918 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:20.284Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 5.013 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:20.337Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 13.796 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:20.424Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 13.724 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:20.425Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.452 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:26.055Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.944 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:30.475Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.544 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:31.275Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 10.669 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:31.394Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 11.206 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:31.395Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.334 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:49.339Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.051 "http://localhost:3000/createPainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:50.178Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.889 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:56.469Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.183 "http://localhost:3000/logout" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:57.313Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/logout HTTP/1.1" 200 2 31.825 "http://localhost:3000/logout" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:57.431Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T12:45:59.462Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T12:45:59.463Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.666 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:45:59.468Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.116 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:04.866Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T12:46:05.732Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T12:46:05.732Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 2.950 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:05.734Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 200 213 116.348 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:11.997Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.263 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:12.041Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 6.424 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:12.094Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 6.199 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:46:12.094Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.776 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:47:01.787Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.016 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:47:02.607Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 7.122 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:47:02.731Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 7.036 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:47:02.732Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.875 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:52.412Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.828 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:52.959Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 304 - 6.486 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:53.008Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 5.949 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:53.009Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.637 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:56.150Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.070 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:56.679Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 304 - 9.427 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:56.747Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 7.067 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:50:56.750Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.707 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:51:00.793Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.614 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:51:18.120Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.342 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:51:18.961Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 7.169 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:51:19.077Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 6.885 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:51:19.078Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.538 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:04.861Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.078 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:05.761Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 6.388 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:05.856Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 7.004 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:05.860Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.199 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:07.021Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.537 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:19.925Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.352 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:20.341Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.437 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:21.305Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 7.921 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:21.450Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 7.699 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:21.451Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.129 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:22.888Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.809 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:23.723Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 7.077 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:23.828Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 7.215 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:23.831Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.423 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:52:38.744Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.113 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:28.419Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.362 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:29.439Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 9.154 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:29.549Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 9.184 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:29.550Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 8.393 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:45.329Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.118 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:46.199Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 10.217 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:46.306Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 8.624 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:53:46.308Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.361 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:08.868Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.459 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:10.142Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 13.809 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:10.297Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 13.815 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:10.299Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.373 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:11.236Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.953 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:38.955Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.360 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:39.708Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.022 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:56.785Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.303 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:56:57.518Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.799 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:07.096Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.014 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:08.609Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.176 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:25.849Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.895 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:26.833Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.253 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:35.975Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.474 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T12:58:36.953Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 6.213 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:05:56.100Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.108 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:05:57.828Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPaintings/[0,0.09,0] HTTP/1.1" 404 172 4.266 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:05:57.928Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:05.809Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:05.855Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:05.920Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 41.666 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:08.605Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 6.142 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:09.299Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPaintings/[0,0.09,0] HTTP/1.1" 404 172 5.188 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:06:09.374Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.632 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:08.237Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.807 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:09.105Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPaintings/0.00-0.09-0.00 HTTP/1.1" 404 176 7.198 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:09.196Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:11.753Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:11.802Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:11.855Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 22.001 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:14.668Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 6.836 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:15.346Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPaintings/0.00-0.09-0.00 HTTP/1.1" 404 176 4.165 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:15.405Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.083 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:21.301Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.783 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:22.316Z'
+}
+{
+  message: 'undefined - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T13:07:22.402Z'
+}
+{
+  message: "TypeError: Cannot read property 'split' of undefined\n" +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/routes/painting.js:47:25\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports.isAuthorized (/Users/parsa/Desktop/everything/university/BC/louvre/server/middlewares/auth.js:9:5)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:354:14)\n' +
+    '    at param (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:365:14)\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:410:3)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:47:12)\n' +
+    '    at Layer.handle [as handle_request] (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at trim_prefix (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:317:13)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:284:7\n' +
+    '    at Function.process_params (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/express-session/index.js:495:7\n' +
+    '    at /Users/parsa/Desktop/everything/university/BC/louvre/server/node_modules/connect-mongo/src/index.js:10:25',
+  level: 'error',
+  timestamp: '2020-07-31T13:07:22.403Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 500 192 6.091 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:22.407Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:45.726Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:45.773Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:45.833Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 16.156 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:46.797Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.104 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:47.550Z'
+}
+{
+  message: '400 - publickey should not be falsy',
+  level: 'warn',
+  timestamp: '2020-07-31T13:07:47.619Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 400 166 5.753 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:47.624Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.872 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:53.628Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.513 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:54.409Z'
+}
+{
+  message: '400 - publickey should not be falsy',
+  level: 'warn',
+  timestamp: '2020-07-31T13:07:54.481Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 400 166 7.352 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:07:54.485Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:51.024Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:51.071Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:51.130Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 18.160 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:56.324Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.057 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:57.628Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-31T13:08:57.708Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 200 79 12.207 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:08:57.711Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:15.140Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:15.188Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:15.242Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 16.089 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:18.634Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 8.854 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:19.512Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-31T13:09:19.605Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 200 79 13.858 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:09:19.610Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 6.312 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:20.681Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.389 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:22.150Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-31T13:10:22.228Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.00-0.09-0.00 HTTP/1.1" 200 79 8.305 "http://localhost:3000/painting/0.00-0.09-0.00" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:22.233Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.136 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:22.925Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.759 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:23.787Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 12.664 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:23.889Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 12.911 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:23.891Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.678 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:25.227Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.046 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:26.053Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 8.273 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:26.122Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.983 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:27.543Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.357 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:28.419Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 7.674 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:28.579Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 7.501 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:28.580Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.354 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:29.580Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.713 "http://localhost:3000/painting/0.6499999761581421-0.18000000715255737-0.7699999809265137" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:30.215Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6499999761581421-0.18000000715255737-0.7699999809265137 HTTP/1.1" 200 312 6.546 "http://localhost:3000/painting/0.6499999761581421-0.18000000715255737-0.7699999809265137" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:30.286Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.975 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:32.149Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.606 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:33.133Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 200 932 5.658 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:33.227Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 5.557 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:33.228Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.050 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:34.133Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.501 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:34.943Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 6.397 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:10:35.013Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.061 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:25.709Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.444 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:26.821Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 5.487 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:26.976Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.138 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:30.254Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 4.539 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:31.233Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 8.756 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:11:31.339Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.322 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:12:56.747Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.489 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:13:01.689Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 5.867 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:13:01.762Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.555 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:13:14.096Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.117 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:13:15.273Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 6.130 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:13:15.406Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.423 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:14:38.236Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.874 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:14:39.450Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.604 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:00.694Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.962 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:02.137Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.966 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:12.863Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.170 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:13.975Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.820 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:21.900Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.074 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:22.627Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 7.885 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:22.709Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.078 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:45.647Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.759 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:15:46.434Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.841 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:14.778Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.511 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:15.498Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 6.773 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:15.570Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.196 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:30.066Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.893 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:30.718Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.692 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:52.308Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.426 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:53.143Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 7.796 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:53.239Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.946 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:57.373Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.446 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:58.087Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 7.543 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:16:58.160Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.264 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:13.929Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.585 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:14.771Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 7.126 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:14.880Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.147 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:20.127Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.176 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:20.926Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 6.518 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:21.041Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.200 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:54.414Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.328 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:55.314Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 8.215 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:55.402Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.960 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:17:59.757Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.799 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:00.933Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 6.728 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:01.081Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.651 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:09.104Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.640 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:10.006Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 7.297 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:10.111Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 7.101 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:10.116Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.062 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:17.230Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.018 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:18.017Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.375 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:18.104Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 9.299 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:18.109Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.638 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:38.720Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.853 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:39.528Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.497 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:39.590Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 200 278 8.107 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:39.595Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.984 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:47.473Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.285 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:47.991Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.322 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:48.031Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 5.323 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:48.034Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.272 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:54.390Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.198 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:54.898Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.626 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:54.923Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 6.821 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:18:54.927Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.210 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:41.122Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.426 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:41.709Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.906 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:41.742Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 5.521 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:41.745Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.522 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:46.121Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.520 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:46.579Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.800 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:46.613Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 5.995 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:19:46.616Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.697 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:06.634Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.466 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:07.168Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.630 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:07.203Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 5.332 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:07.206Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.955 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:14.949Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.381 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:15.551Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.505 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:49.421Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /painting/babel/parser/lib/index.js HTTP/1.1" 404 173 3.849 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:49.930Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.578 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:53.732Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.388 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:54.188Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.531 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:54.218Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 7.862 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:20:54.223Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.519 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:13.774Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.439 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:14.320Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.371 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:14.360Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 5.536 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:14.363Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.335 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:43.757Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.665 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:44.323Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.432 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:44.356Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 6.204 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:21:44.361Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.128 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:00.102Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.488 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:00.607Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.150 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:00.640Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 4.467 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:00.644Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.192 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:56.208Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.472 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:56.730Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.678 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:56.763Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 4.934 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:22:56.766Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.479 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:23:02.217Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.433 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:23:02.670Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.418 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:23:02.714Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0-0.09000000357627869-0 HTTP/1.1" 304 - 6.757 "http://localhost:3000/painting/0-0.09000000357627869-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:23:02.717Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.273 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:12.665Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.558 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:12.987Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 304 - 7.959 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:13.045Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 7.623 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:13.046Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.165 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:14.336Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.355 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:14.517Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.305 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:14.555Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 11.056 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:14.562Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.647 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:30.324Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.028 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:30.919Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.725 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:30.959Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 5.695 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:30.963Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.104 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:40.932Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.833 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:41.634Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.940 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:41.698Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 6.082 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:24:41.702Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.550 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:12.317Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.163 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:12.983Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 6.155 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:13.038Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 8.760 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:13.042Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.776 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:24.254Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.174 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:24.772Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.700 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:24.811Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 7.000 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:25:24.814Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.725 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:30:09.548Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.366 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:30:10.232Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.859 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:30:10.266Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 7.833 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:30:10.273Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.528 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:18.782Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.665 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:19.223Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.248 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:19.271Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 9.006 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:19.283Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.350 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:36.260Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.301 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:36.773Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.486 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:36.807Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 6.673 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:36.810Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.513 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:47.416Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.454 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:47.831Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.559 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:47.864Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 8.378 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:47.869Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.148 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:50.045Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.507 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:50.514Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.379 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:50.565Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 6.447 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:31:50.569Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.275 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:02.225Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.986 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:02.519Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.826 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:02.552Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 6.714 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:02.556Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.978 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:11.926Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.236 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:12.642Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.997 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:12.710Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 5.894 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:32:12.715Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.740 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:16.312Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.604 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:16.867Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.177 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:16.901Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 7.602 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:16.904Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.839 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:43.424Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.504 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:43.949Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.932 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:43.986Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 9.551 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:33:43.991Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.503 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:22.402Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.643 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:22.976Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 8.697 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:23.036Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 8.238 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:23.040Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.372 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:28.626Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.847 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:28.947Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.486 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:28.995Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 8.591 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:34:29.000Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.705 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:06.825Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.890 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:07.332Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.652 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:07.363Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 5.258 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:07.368Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.891 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:49.146Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.809 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:49.621Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.383 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:49.652Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 5.732 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:35:49.656Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.220 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:21.082Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.378 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:21.683Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.611 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:21.725Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 11.680 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:21.737Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.518 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:51.562Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.448 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:52.030Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 5.396 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:52.079Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 7.381 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:36:52.083Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.136 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:10.767Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.570 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:11.305Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.904 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:11.339Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 6.969 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:11.344Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.296 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:18.951Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.376 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:19.342Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.439 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:19.407Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 8.356 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:39:19.412Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.796 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:09.148Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.614 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:09.777Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.851 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:09.831Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 7.090 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:09.835Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.537 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:52.737Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.834 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:53.203Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.087 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:53.243Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 5.420 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:40:53.249Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.839 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:32.887Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.935 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:33.510Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 6.592 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:33.572Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 11.430 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:33.580Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.690 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:50.378Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 3.767 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:50.814Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.740 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:50.846Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 4.806 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:41:50.847Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.651 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:00.062Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 4.978 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:00.387Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c HTTP/1.1" 304 - 7.069 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:00.465Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 304 - 7.354 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:00.467Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.746 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:02.941Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 304 - 2.999 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:03.144Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.860 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:03.194Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 304 - 11.667 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:03.200Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.612 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:42:14.988Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.382 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:09.936Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.689 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:11.319Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.661 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:11.437Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 5.023 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:11.441Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.328 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:16.347Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.120 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:17.139Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 9.220 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:17.221Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 8.631 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:43:17.228Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.850 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:02.790Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 3.053 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:03.593Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.948 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:03.670Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 7.722 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:03.675Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.221 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:16.112Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 5.775 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:17.093Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 2.652 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:17.186Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 5.578 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:17.191Z'
+}
+{
+  message: 'The transaction with transactionId 68372c0632b6c372ef70de376dba1aa3d437102622ec1425ec43b18388fd5d6030e92fbcddcefbe42f89c5908bbaf57922cb59bddc18a81fbc46b5024281fb0f is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:19.118Z'
+}
+{
+  message: 'Batch 7c418f30e8638796e25bfb7f496e79d575bb068eec28cb19539ae9255e7b5df332857b75606504dea4c266f1f85ad6bf50e4dc19bf818c8fd3f5e22dd4348823 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T13:44:19.168Z'
+}
+{
+  message: '400 - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T13:44:19.169Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 400 36 78.370 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:19.172Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.971 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:31.166Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.408 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:32.185Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.637 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:32.278Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 6.207 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:44:32.283Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:44:37.986Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:44:47.980Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:44:57.975Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:07.972Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:17.971Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:27.965Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:37.960Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:47.956Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:45:57.951Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:07.946Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:17.940Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:27.940Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:37.934Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:47.930Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:46:57.926Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:07.923Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:17.917Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:27.914Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:37.907Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:47.903Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:47:57.900Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:07.898Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:17.894Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.714 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:48:23.801Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 111 2.797 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:48:25.751Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.043 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:48:25.814Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.25-0-0 HTTP/1.1" 200 263 5.477 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:48:25.818Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:27.889Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:37.885Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:47.882Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:48:57.876Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:50:46.741Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:50:46.786Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:50:46.840Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 17.841 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:07.120Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:07.972Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:07.974Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 8.812 "http://localhost:3000/painting/0.25-0-0" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:07.982Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:08.078Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:08.079Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 5.066 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:08.083Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 6.846 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:08.084Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 5.033 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:13.441Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:14.300Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:14.301Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.510 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:14.303Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:14.389Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:14.389Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 3.955 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:14.392Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.746 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:17.142Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:18.009Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:18.009Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.247 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:18.014Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.705 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:21.759Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:22.812Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:22.813Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 5.652 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:22.816Z'
+}
+{
+  message: '400 - Email or Password are not valid!',
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:26.721Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 400 204 23.398 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:26.724Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.905 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:30.460Z'
+}
+{
+  message: 'The save action on User Collection with document a@a.a has some errors: false: password: Path `password` is required.',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:39.088Z'
+}
+{
+  message: '500 - Error happened during the registration!',
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:39.089Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/register HTTP/1.1" 500 224 14.053 "http://localhost:3000/register" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:39.091Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/register HTTP/1.1" 200 121 91.267 "http://localhost:3000/register" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:43.215Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-07-31T13:51:43.255Z'
+}
+{
+  message: "401 - The user doesn't have authorization!",
+  level: 'warn',
+  timestamp: '2020-07-31T13:51:43.256Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 401 193 4.737 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:43.259Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /auth/login HTTP/1.1" 200 151 94.660 "http://localhost:3000/login" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:50.003Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 31 4.534 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:50.042Z'
+}
+{
+  message: 'The transaction with transactionId db4156154fd8c8ca8220bec37e0f5ec3f2275e7de6a1fb4841a3224c39ba868510967136f21319f27849762ba80efed81f1b118b8b5b1cebad959aa071ae55d2 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:52.772Z'
+}
+{
+  message: 'The transaction with transactionId dab80c93bdd2b4810719458e6a54378b31eb009d0d0beba126177d3bbd193cfc0541a07d0f1a67ed4c0ef763a8ae2ff57b172cfa449138a3283ee249107ac019 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:55.743Z'
+}
+{
+  message: 'The transaction with transactionId 4b9cf3d2f0997a75bd300e661c4950252ad49171baa213c9e9028ecec490e168338fb927822de18fae26ff185760189256fa6e34beea0d68d725c63123868789 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:55.940Z'
+}
+{
+  message: 'The transaction with transactionId 348472b5c918c0c8eb6caecc67f7a7aae72aced4419fba699e15895a10262c8b0207d676f2f5a392ec040941de6362fed76422cfe673762f917d85daf931ff27 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:51:56.116Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:52:13.499Z'
+}
+{
+  message: 'The transaction with transactionId 48283b83ee9981e37eb82333e6cef0dd6810b6589066d6c0a8737f1ed076d96f5439588cba80ca95d213e2790b3f9568e45b961bff8fe44a9eff562ca8c43a47 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:52:19.540Z'
+}
+{
+  message: 'The transaction with transactionId 604f9cbb8112f6ec347761ac55e4468e1b4bbf6853842ae4778a562a75189d4c04185f454238ac8b2cd2d28784c1efa3416b4f0feb34977d114264bc2667eab4 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:52:19.802Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:52:33.499Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:52:43.506Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:52:53.511Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:53:03.508Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.899Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.899Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.900Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.900Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.907Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:04.907Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:53:13.504Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.724 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:17.613Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 31 2.923 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:18.429Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:53:23.496Z'
+}
+{
+  message: 'The transaction with transactionId 436ca20def0fff044c337ddb6cfc0f1d820ce283e7bd9a082246ffd89028bf2703ca75d0f41370fa029e1b8009bf5acb6a274de171acd8f292f534eac3fd8306 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:31.962Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:53:43.500Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:48.356Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.394 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:48.508Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 31 2.430 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:49.421Z'
+}
+{
+  message: 'The transaction with transactionId 5796baf64092c7672d5425398a1995df81b855bd6e95a8027ae11392109f997e64c9be85633b5227170ab50d938a49c3732665a964869939193a8cc5319bd2a1 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:53:52.019Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:01.176Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:54:03.504Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:11.381Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:11.428Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:11.482Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 18.120 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:26.862Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 31 5.619 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:27.628Z'
+}
+{
+  message: 'The transaction with transactionId 65bab5e64811a62d6761c8d34cd8f69496df7555d4040d7f3cdef0e82198e76c5e74176391cebbe7eb3e6021b9bc13929f2b0b37f199d2178c98de7c79aa9cc1 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:54:29.161Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:54:43.490Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T13:55:49.046Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T13:55:49.095Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T13:55:49.149Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 20.973 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:06.437Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 31 4.911 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:07.370Z'
+}
+{
+  message: 'The transaction with transactionId b360e9cc054c2ce4bd21b82c9134b6137653612bbb3234df35ab1d0cf94cb1b974c2684b81b10b28fad00d3d1e3558df4d1f3dc4577592ac0d9e521721c94327 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:10.341Z'
+}
+{
+  message: 'The transaction with transactionId b360e9cc054c2ce4bd21b82c9134b6137653612bbb3234df35ab1d0cf94cb1b974c2684b81b10b28fad00d3d1e3558df4d1f3dc4577592ac0d9e521721c94327 is done.',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:12.392Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 2073.612 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:12.397Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:56:25.369Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/registerBlockchain HTTP/1.1" 200 183 30.939 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:25.805Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.129 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:26.769Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 6.401 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:27.602Z'
+}
+{
+  message: 'Thers is no result in queryOfPaintings',
+  level: 'warn',
+  timestamp: '2020-07-31T13:56:27.719Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/027008a66eaae60e218df6cb4e1f8c817d006bfb4b2cd5f0f431745be8c4df1665 HTTP/1.1" 200 79 14.386 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:27.724Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 15.982 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:27.726Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.429 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:31.981Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.219 "http://localhost:3000/createPainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:32.831Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:56:35.376Z'
+}
+{
+  message: 'The transaction with transactionId 9157468c53dc50081a71a339c66a7b0bc9ba194a433036a808b74133ccc89f9d38073fc666b81b675fd058a07a2467e6785c05c6051320a358fec9721a7c6218 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:42.721Z'
+}
+{
+  message: 'The transaction with transactionId 9157468c53dc50081a71a339c66a7b0bc9ba194a433036a808b74133ccc89f9d38073fc666b81b675fd058a07a2467e6785c05c6051320a358fec9721a7c6218 is done.',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:44.636Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1921.380 "http://localhost:3000/createPainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:44.642Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.148 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:44.683Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/027008a66eaae60e218df6cb4e1f8c817d006bfb4b2cd5f0f431745be8c4df1665 HTTP/1.1" 200 313 7.750 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:44.723Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 6.657 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:44.724Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.641 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:52.722Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 3.452 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:53.370Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.847 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:53.449Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 11.051 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:53.456Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:56:55.376Z'
+}
+{
+  message: 'The transaction with transactionId 0a6ef689049e09629f7acb94c5d9f43f88ffbeb271e5fdcb49685d43578c3bea5f1baff8ac036ed194b6bbdfd6fe6907334f7e8f07ab3f3ddee288b4e9194690 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:56.242Z'
+}
+{
+  message: 'Batch 11f70901aa1c256fc13cddeaf12e2a5d0ec3ed70682021dac80441daece793fb2f0af434c8ab2629b7e6d6b1ac6adcd142d62fbea9889f4fe42569d4b80bd792 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T13:56:56.261Z'
+}
+{
+  message: '400 - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T13:56:56.262Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 400 36 23.826 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:56:56.265Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:57:15.366Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:57:25.362Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:57:35.358Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:57:45.351Z'
+}
+{
+  message: 'The transaction with transactionId 89099deae22289d6b97199451be365c1a9124e4117efb015e69589a59e94a59644416a9c48d1e8c09fc99610663fa347af059ee2e643f01e94217b707b23c5cb is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:57:53.394Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:05.344Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:15.344Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:25.339Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:35.337Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:45.343Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:58:55.343Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:59:05.346Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:59:15.348Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" - - - "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:22.301Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.836 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:22.467Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.745 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:24.036Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.320 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:24.123Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 12.467 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:24.133Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T13:59:25.343Z'
+}
+{
+  message: 'The transaction with transactionId fa19b3726b3ccf44a133714f80c38b68b90f676956c3a182b8a95ac007fd12e521c9b30c453a018ce2c72daae20fa726aa74be1701c0c9faaaa0d7fa6e19d482 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T13:59:31.507Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:44.520Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:44.567Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:44.621Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 22.361 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:50.348Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.950 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:51.798Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.760 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:51.891Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 15.502 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:51.899Z'
+}
+{
+  message: 'The transaction with transactionId 5d5752b28a59e9911a0c5b5fab9a5246a615b3232edbb936a83ee26c8c9b40c7021656ae8fc972fc863b6205be7688ed78e27aacb253fe10acaef441048bd3d9 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:56.316Z'
+}
+{
+  message: 'Batch 2ea8dc2bcea90084d296ca716d08cde441236fba932fda4f0981ed303a8d95fb1dac7eed2da94e55214d77949916fe6a0cb066e7f590e51e0c73d4c6aebd9272 is INVALID, with message: payload is not defined',
+  level: 'error',
+  timestamp: '2020-07-31T14:00:56.354Z'
+}
+{
+  message: '400 - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T14:00:56.355Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 400 36 63.878 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:00:56.358Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:01:12.274Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.286 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:13.409Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 3.059 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:14.274Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.834 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:14.348Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 7.789 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:14.352Z'
+}
+{
+  message: 'The transaction with transactionId 123ec4887ff0bac23cb27bf9d2599c875aae383ca55e02bec779a27f8746b7b402e32be81a1d8d002839a684c9c7d2e8093a4e4c0e27f937264baa9cefe2b4b1 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:16.599Z'
+}
+{
+  message: 'Batch 1e655d792569dab57cf23500996e904a23bd0118becf85618072f6ab93b3694123f8abf2f0dcc3f83b4acc7743dd921498b66bc6b96b9ea1b1e49eeca238b7c2 is INVALID, with message: makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  timestamp: '2020-07-31T14:01:16.617Z'
+}
+{
+  message: '400 - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T14:01:16.618Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 400 36 21.958 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:01:16.621Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:27.094Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:27.142Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:27.187Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 21.010 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:28.862Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 5.031 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:30.550Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.956 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:30.638Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 19.064 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:30.650Z'
+}
+{
+  message: 'The transaction with transactionId ad9a233d670c73da3684025e4935dd18f8dd35e5f2f09d637168a65fa0641648007025d833de5a462bcb40239cf52e9a97d029c8831f4f052563bbe9608eaca8 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:38.890Z'
+}
+{
+  message: 'Batch a3ef350751f764e991dfcb9ccf522d4cb421d68c318dc3a1b86758824141e042481b7df103676a0ab547f187442e0c5790070a326f925b881b2b9eeb42ca7ecc is INVALID, with message: makeOfferable in blockchain is not responding!: Error: The gene is not valid!',
+  level: 'error',
+  timestamp: '2020-07-31T14:02:38.940Z'
+}
+{
+  message: '400 - undefined',
+  level: 'warn',
+  timestamp: '2020-07-31T14:02:38.941Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 400 36 75.168 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:02:38.944Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:02:54.189Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:04.194Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:14.187Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:24.184Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:34.184Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:44.182Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:03:54.183Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:04.179Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:14.175Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:24.180Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:34.178Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:44.184Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:04:54.179Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:04.176Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:14.172Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.878 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:05:22.489Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:24.181Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.792 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:05:24.333Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 6.325 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:05:24.418Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 12.062 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:05:24.424Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:34.181Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:44.187Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:05:54.193Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:04.194Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:14.189Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:24.193Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:34.192Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:44.197Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:06:54.204Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:04.209Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:14.204Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:24.212Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:34.207Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:44.209Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:07:54.220Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:04.218Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:14.216Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:24.221Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:34.227Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:44.227Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:08:54.225Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:09:04.230Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:09:14.224Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.548 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:09:23.175Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:09:24.234Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 2.758 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:09:24.793Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.562 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:09:24.896Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 7.240 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:09:24.900Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:09:34.230Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:09:44.236Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T14:10:58.804Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T14:10:58.850Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T14:10:58.903Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 23.406 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:16.672Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.482 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:17.483Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.320 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:17.562Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 13.676 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:17.571Z'
+}
+{
+  message: 'The transaction with transactionId f7bc8d00fe3fd8266d528ef0b6b3d2b443ae8051aa084e04722a919612efdbae161de2878090fb56181384f89f2a3ecf65c3340c17b591bb28cff615f3d5ce55 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:33.862Z'
+}
+{
+  message: 'The transaction with transactionId f7bc8d00fe3fd8266d528ef0b6b3d2b443ae8051aa084e04722a919612efdbae161de2878090fb56181384f89f2a3ecf65c3340c17b591bb28cff615f3d5ce55 is done.',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:35.068Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1233.501 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:11:35.073Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:11:51.972Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:01.975Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:11.980Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:21.980Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:31.980Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.958 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:12:32.122Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 2.669 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:12:33.410Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 4.933 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:12:33.499Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 12.066 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:12:33.507Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:41.978Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:12:51.982Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.063 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:13:01.763Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:13:01.981Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.801 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:13:02.715Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.256 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:13:02.797Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.6100000143051147-0.30000001192092896-0.07999999821186066 HTTP/1.1" 200 313 6.503 "http://localhost:3000/painting/0.6100000143051147-0.30000001192092896-0.07999999821186066" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:13:02.802Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:13:11.984Z'
+}
+{
+  message: 'Server is running on 3001',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:05.693Z'
+}
+{
+  message: 'Successfully connected to RethinkDB database: blockchain98',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:05.742Z'
+}
+{
+  message: 'Server is ready ...',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:05.802Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 21.613 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:21.394Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 4.647 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:22.164Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 16.033 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:22.278Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/027008a66eaae60e218df6cb4e1f8c817d006bfb4b2cd5f0f431745be8c4df1665 HTTP/1.1" 200 313 20.376 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:22.281Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 4.707 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:25.808Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 5.776 "http://localhost:3000/createPainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:26.525Z'
+}
+{
+  message: 'The transaction with transactionId 8eae799217472d4d26cb711dd2c3fd51f79242725f5ed70307821a2d8e6299377545876d91a677ad48dfc687bda87e568f6ec0e5836973fd5beda183e4346f89 is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:39.351Z'
+}
+{
+  message: 'The transaction with transactionId 8eae799217472d4d26cb711dd2c3fd51f79242725f5ed70307821a2d8e6299377545876d91a677ad48dfc687bda87e568f6ec0e5836973fd5beda183e4346f89 is done.',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:40.677Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1347.223 "http://localhost:3000/createPainting" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:40.680Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 3.730 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:40.763Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getUserPaintings/027008a66eaae60e218df6cb4e1f8c817d006bfb4b2cd5f0f431745be8c4df1665 HTTP/1.1" 200 563 5.010 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:40.800Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /user/getUserInfo HTTP/1.1" 200 268 4.882 "http://localhost:3000/dashboard" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:40.801Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.710 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:42.132Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 3.154 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:42.897Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 5.358 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:42.983Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.10999999940395355-0.6899999976158142-0.2800000011920929 HTTP/1.1" 200 328 7.057 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:42.987Z'
+}
+{
+  message: 'The transaction with transactionId 5342c32134445dbc8230cad65112641d39d16b4d766e8de51436050e9708061066d84ea29256b557568f6314cfbd7e3c427382bb633f76518ab0d4bcde7b508c is recieved',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:49.567Z'
+}
+{
+  message: 'The transaction with transactionId 5342c32134445dbc8230cad65112641d39d16b4d766e8de51436050e9708061066d84ea29256b557568f6314cfbd7e3c427382bb633f76518ab0d4bcde7b508c is done.',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:50.789Z'
+}
+{
+  message: '::ffff:127.0.0.1 "POST /blockchain/transactions?wait HTTP/1.1" 200 356 1225.851 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:50.792Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 2.915 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:52.691Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 5.126 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:53.381Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 6.944 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:53.454Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.10999999940395355-0.6899999976158142-0.2800000011920929 HTTP/1.1" 200 327 12.005 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:14:53.459Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:00.672Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:10.672Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:20.679Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:30.686Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /css/Fonts HTTP/1.1" 404 148 3.169 "http://localhost:3000/css/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:15:40.225Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:40.680Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /auth/auth HTTP/1.1" 200 109 2.446 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:15:40.994Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /images/generated/NaN.png HTTP/1.1" 404 163 3.711 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:15:41.065Z'
+}
+{
+  message: '::ffff:127.0.0.1 "GET /paintings/getPainting/0.10999999940395355-0.6899999976158142-0.2800000011920929 HTTP/1.1" 200 327 8.960 "http://localhost:3000/painting/0.10999999940395355-0.6899999976158142-0.2800000011920929" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" \n',
+  level: 'info',
+  timestamp: '2020-07-31T14:15:41.072Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:15:50.683Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:16:00.687Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:16:10.687Z'
+}
+{
+  level: 'warn',
+  message: 'Received message of unknown type:',
+  timestamp: '2020-07-31T14:16:20.686Z'
+}

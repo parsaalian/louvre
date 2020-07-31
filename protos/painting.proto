@@ -3,7 +3,7 @@ syntax = "proto3";
 message Painting {
     string owner = 1;
     repeated float gene = 2;
-    bool for_sale = 4;
+    bool forSale = 4;
     // Timestamp created_at = 5;
 }
 
