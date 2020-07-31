@@ -26,94 +26,56 @@
         }
       }
     },
-    "Actions": {
-      "oneofs": {
-        "options": {
-          "oneof": [
-            "makeOffer",
-            "acceptOffer",
-            "makePainting"
-          ]
-        }
-      },
-      "fields": {
-        "action": {
-          "type": "string",
-          "id": 100
-        },
-        "makeOffer": {
-          "type": "MakeOfferAction",
-          "id": 1
-        },
-        "acceptOffer": {
-          "type": "AcceptOfferAction",
-          "id": 2
-        },
-        "makePainting": {
-          "type": "MakePaintingAction",
-          "id": 3
-        }
-      }
-    },
-    "MakeOfferAction": {
-      "fields": {
-        "price": {
-          "type": "float",
-          "id": 1
-        },
-        "paintingId": {
-          "type": "int32",
-          "id": 2
-        },
-        "ownerPubKey": {
-          "type": "string",
-          "id": 3
-        }
-      }
-    },
-    "AcceptOfferAction": {
-      "fields": {
-        "offer": {
-          "type": "Offer",
-          "id": 1
-        }
-      }
-    },
-    "MakePaintingAction": {
-      "fields": {
-        "gene": {
-          "rule": "repeated",
-          "type": "float",
-          "id": 1
-        },
-        "ownerPubKey": {
-          "type": "string",
-          "id": 2
-        }
-      }
-    },
     "Offer": {
       "fields": {
-        "offerId": {
+        "buyerKey": {
           "rule": "required",
-          "type": "int32",
-          "id": 1
-        },
-        "offererPubKey": {
-          "type": "float",
+          "type": "string",
           "id": 2
         },
-        "offeredPrice": {
+        "offer": {
+          "rule": "required",
           "type": "float",
           "id": 3
         },
-        "offeredOn": {
-          "type": "Painting",
+        "paintingKey": {
+          "rule": "repeated",
+          "type": "float",
           "id": 4
         },
         "accepted": {
+          "rule": "required",
           "type": "bool",
-          "id": 5
+          "id": 5,
+          "options": {
+            "default": false
+          }
+        }
+      }
+    },
+    "Painting": {
+      "fields": {
+        "owner": {
+          "type": "string",
+          "id": 1
+        },
+        "gene": {
+          "rule": "repeated",
+          "type": "float",
+          "id": 2
+        },
+        "forSale": {
+          "type": "bool",
+          "id": 4
+        }
+      }
+    },
+    "PaintingContainer": {
+      "fields": {
+        "entries": {
+          "rule": "repeated",
+          "type": "Painting",
+          "id": 1
         }
       }
     },
@@ -123,7 +85,10 @@
           "oneof": [
             "createaccount",
             "chargeaccount",
-            "createPainting"
+            "createpainting",
+            "createoffer",
+            "acceptoffer",
+            "makeofferable"
           ]
         }
       },
@@ -140,9 +105,21 @@
           "type": "ChargeAccountAction",
           "id": 201
         },
-        "createPainting": {
+        "createpainting": {
           "type": "CreatePaintingAction",
           "id": 202
+        },
+        "createoffer": {
+          "type": "CreateOfferAction",
+          "id": 203
+        },
+        "acceptoffer": {
+          "type": "AcceptOfferAction",
+          "id": 204
+        },
+        "makeofferable": {
+          "type": "MakeOfferableAction",
+          "id": 205
         }
       }
     },
@@ -168,36 +145,48 @@
           "rule": "repeated",
           "type": "float",
           "id": 1
-        }
-      }
-    },
-    "Player": {
-      "fields": {
-        "pubKey": {
-          "rule": "required",
-          "type": "string",
-          "id": 1
         },
-        "username": {
-          "rule": "required",
+        "owner": {
           "type": "string",
           "id": 2
-        },
-        "balance": {
-          "rule": "required",
-          "type": "float",
-          "id": 3,
-          "options": {
-            "default": 0
-          }
         }
       }
     },
-    "PlayerContainer": {
+    "CreateOfferAction": {
       "fields": {
-        "entries": {
+        "price": {
+          "type": "float",
+          "id": 1
+        },
+        "gene": {
           "rule": "repeated",
-          "type": "Player",
+          "type": "float",
+          "id": 2
+        },
+        "offererPubKey": {
+          "type": "string",
+          "id": 3
+        }
+      }
+    },
+    "AcceptOfferAction": {
+      "fields": {
+        "gene": {
+          "rule": "repeated",
+          "type": "float",
+          "id": 1
+        },
+        "buyerKey": {
+          "type": "string",
+          "id": 2
+        }
+      }
+    },
+    "MakeOfferableAction": {
+      "fields": {
+        "gene": {
+          "rule": "repeated",
+          "type": "float",
           "id": 1
         }
       }

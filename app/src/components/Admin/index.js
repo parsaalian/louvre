@@ -32,8 +32,6 @@ const User = (props) => {
 
 	useEffect(
 		() => {
-			console.log(props.user.login.pubKey, !!props.user.login.pubKey);
-
 			if (!!props.user.login.pubKey) {
 				setUserLoading(true);
 				axios.get(`/user/getUserInfo`).then((response) => {

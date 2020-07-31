@@ -1,17 +1,18 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'rsuite/dist/styles/rsuite-default-rtl.min.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
+import logger from 'redux-logger';
 import promiseMiddleware from 'redux-promise';
 import ReduxThunk from 'redux-thunk';
 
 import reducers from './reducers';
 import Routes from './routes';
 
-const createStoreWithMiddleware = applyMiddleware(promiseMiddleware, ReduxThunk)(createStore);
+const createStoreWithMiddleware = applyMiddleware(logger, promiseMiddleware, ReduxThunk)(createStore);
 
 ReactDOM.render(
 	<Provider store={createStoreWithMiddleware(reducers)}>
