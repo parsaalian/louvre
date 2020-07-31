@@ -4,9 +4,9 @@ message PGPayload {
     string action = 100;
 
     oneof options {
-    CreateAccountAction createaccount = 200;
-    ChargeAccountAction chargeaccount = 201;
-    CreatePaintingAction createpainting = 202;
+    CreateAccountAction createaccount = 200; // DONE
+    ChargeAccountAction chargeaccount = 201; // DONE
+    CreatePaintingAction createpainting = 202; // DONE
     CreateOfferAction createoffer = 203;
     AcceptOfferAction acceptoffer = 204;
     MakeOfferableAction makeofferable = 205;

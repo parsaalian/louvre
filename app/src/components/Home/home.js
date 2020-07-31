@@ -1,21 +1,11 @@
-import React from 'react';
+import React from "react";
 
-
-
-const Home = props => {
-
+const Home = (props) => {
     return (
         <div className="logout_container">
-                <h1>
-                      به پروژه درس بلاک چین خوش آمدید
-                </h1>
-
-                
-            </div>
-    )
-
-
-}
-
+            <h1>به پروژه درس بلاک چین خوش آمدید</h1>
+        </div>
+    );
+};
 
 export default Home;

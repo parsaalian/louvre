@@ -20,6 +20,7 @@ class ChargeAccount extends Component {
 
         this.state = {
             privKey: "",
+            changed: false,
             random1: 0,
             random2: 0,
             random3: 0,
@@ -31,14 +32,17 @@ class ChargeAccount extends Component {
             });
         this.handleRandom1 = (e) =>
             this.setState({
+                changed: true,
                 random1: e,
             });
         this.handleRandom2 = (e) =>
             this.setState({
+                changed: true,
                 random2: e,
             });
         this.handleRandom3 = (e) =>
             this.setState({
+                changed: true,
                 random3: e,
             });
     }
@@ -59,10 +63,15 @@ class ChargeAccount extends Component {
     };
 
     render() {
+        const { privKey, changed, random1, random2, random3 } = this.state;
+
         return (
             <Grid
                 fluid
-                style={{ height: "calc(100vh - 5rem)", marginTop: "5rem" }}
+                style={{
+                    height: "calc(100vh - 5rem - 56px)",
+                    marginTop: "5rem",
+                }}
             >
                 <Row>
                     <Col sm={24} md={12} lg={12} style={{ padding: "2rem" }}>
@@ -73,7 +82,7 @@ class ChargeAccount extends Component {
                                 </ControlLabel>
                                 <Input
                                     type="password"
-                                    value={this.state.privKey}
+                                    value={privKey}
                                     onChange={this.handlePrivKey}
                                 />
                             </FormGroup>
@@ -83,7 +92,7 @@ class ChargeAccount extends Component {
                                     min={0}
                                     max={1}
                                     step={0.01}
-                                    value={this.state.random1}
+                                    value={random1}
                                     onChange={this.handleRandom1}
                                 />
                             </FormGroup>
@@ -93,7 +102,7 @@ class ChargeAccount extends Component {
                                     min={0}
                                     max={1}
                                     step={0.01}
-                                    value={this.state.random2}
+                                    value={random2}
                                     onChange={this.handleRandom2}
                                 />
                             </FormGroup>
@@ -103,7 +112,7 @@ class ChargeAccount extends Component {
                                     min={0}
                                     max={1}
                                     step={0.01}
-                                    value={this.state.random3}
+                                    value={random3}
                                     onChange={this.handleRandom3}
                                 />
                             </FormGroup>
@@ -122,7 +131,17 @@ class ChargeAccount extends Component {
                         style={{ padding: "2rem", textAlign: "center" }}
                     >
                         <img
-                            src="/images/createPainting.png"
+                            src={
+                                !changed
+                                    ? "/images/createPainting.png"
+                                    : `/images/generated/${Number(
+                                          Number(
+                                              ((random1 + random2 + random3) *
+                                                  214.99) /
+                                                  3,
+                                          ).toFixed(0),
+                                      )}.png`
+                            }
                             style={{ width: "80%", height: "auto" }}
                         />
                     </Col>

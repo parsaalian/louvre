@@ -250,13 +250,11 @@ class BC98State {
                 "Painting",
             );
             const paintingAddress = createPaintingAddress(paintingKey);
-            console.log(paintingAddress);
             this.addressCache.set(paintingAddress, paintingData[0]);
 
             let entries = {
                 [paintingAddress]: paintingData[0],
             };
-            console.log(entries);
             return this.context.setState(entries);
         } catch (err) {
             const message = err.message ? err.message : err;

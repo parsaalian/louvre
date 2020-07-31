@@ -123,7 +123,6 @@ class Blockchain98Handler extends TransactionHandler {
                 };
 
                 const createPainting = (paintingKey) => {
-                    logger.info(JSON.stringify(paintingKey));
                     return bC98State
                         .getMessage(paintingKey, "Painting")
                         .catch((err) => {
@@ -136,7 +135,6 @@ class Blockchain98Handler extends TransactionHandler {
                             );
                         })
                         .then((paintingValue) => {
-                            logger.info(JSON.stringify(paintingValue));
                             if (
                                 paintingValue &&
                                 paintingValue.gene !== undefined &&
@@ -151,7 +149,6 @@ class Blockchain98Handler extends TransactionHandler {
                                     " for " +
                                     userPublicKey,
                             );
-                            console.log(userPublicKey);
                             return bC98State.createPainting(
                                 paintingKey,
                                 userPublicKey,

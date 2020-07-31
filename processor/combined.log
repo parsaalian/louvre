@@ -2038,3 +2038,111 @@
   service: 'user-service',
   timestamp: '2020-07-31T08:37:35.945Z'
 }
+{
+  message: 'Creating Account for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:42:26.252Z'
+}
+{
+  message: 'Creating Account for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:42:26.418Z'
+}
+{
+  message: '[0.38999998569488525,0.23000000417232513,0.5899999737739563]',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.705Z'
+}
+{
+  message: '{}',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.713Z'
+}
+{
+  message: 'Creating Painting 0.38999998569488525,0.23000000417232513,0.5899999737739563 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.714Z'
+}
+{
+  message: '[0.38999998569488525,0.23000000417232513,0.5899999737739563]',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.735Z'
+}
+{
+  message: '{}',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.739Z'
+}
+{
+  message: 'Creating Painting 0.38999998569488525,0.23000000417232513,0.5899999737739563 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:10.740Z'
+}
+{
+  message: '[0.6499999761581421,0.18000000715255737,0.7699999809265137]',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:39.993Z'
+}
+{
+  message: '{}',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:39.998Z'
+}
+{
+  message: 'Creating Painting 0.6499999761581421,0.18000000715255737,0.7699999809265137 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:39.998Z'
+}
+{
+  message: '[0.6499999761581421,0.18000000715255737,0.7699999809265137]',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:40.955Z'
+}
+{
+  message: '{}',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:40.961Z'
+}
+{
+  message: 'Creating Painting 0.6499999761581421,0.18000000715255737,0.7699999809265137 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T08:43:40.961Z'
+}
+{
+  message: 'Creating Painting 0,0.09000000357627869,0 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T11:04:48.161Z'
+}
+{
+  message: 'Creating Painting 0,0.09000000357627869,0 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T11:04:48.785Z'
+}
+{
+  message: 'Creating Painting 0.25,0,0 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T11:05:00.971Z'
+}
+{
+  message: 'Creating Painting 0.25,0,0 for 033089a91245aa7ecaf9aa570f5512f29769d4b95168bd81a63d8f1069d1346e0c',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2020-07-31T11:05:01.930Z'
+}
