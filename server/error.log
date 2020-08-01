@@ -2213,3 +2213,63 @@
   level: 'error',
   timestamp: '2020-07-31T19:04:06.383Z'
 }
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:11:01.178Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:13:47.586Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:17:13.921Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:18:33.171Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:19:08.362Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:19:22.325Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:19:35.590Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:19:56.131Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:20:14.111Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:20:30.880Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:20:32.703Z'
+}
+{
+  message: 'Unauthorized cookie',
+  level: 'error',
+  timestamp: '2020-08-01T05:20:34.219Z'
+}
