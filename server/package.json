@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "elliptic": "^6.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "express-useragent": "^1.0.13",
     "js-schema": "^1.0.1",
